@@ -1,0 +1,35 @@
+[
+  {
+    "sodium": "13.0",
+    "calcium": "1.0",
+    "sulfate": "2.0",
+    "name": "Go-zone Cape Gate",
+    "ph": "6.3",
+    "description": "",
+    "chloride": "21.0",
+    "magnesium": "1.0",
+    "bicarbonate": "5.0"
+  },
+  {
+    "sodium": "0.0",
+    "calcium": "0.0",
+    "sulfate": "0.0",
+    "name": "Default Water",
+    "ph": "7.0",
+    "description": "",
+    "chloride": "0.0",
+    "magnesium": "0.0",
+    "bicarbonate": "0.0"
+  },
+  {
+    "sodium": "206.0",
+    "calcium": "122.0",
+    "sulfate": "288.2",
+    "name": "Murraysberg Borehole",
+    "ph": "7.44",
+    "description": "Sample tested by Vinlab on 7 May 2021.",
+    "chloride": "256.6",
+    "magnesium": "93.0",
+    "bicarbonate": "474.3"
+  }
+]
