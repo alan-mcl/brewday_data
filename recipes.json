@@ -7047,7 +7047,7 @@
       },
       {
         "duration": 14.0,
-        "temp": 20.0,
+        "temp": 23.0,
         "removeTrubAndChillerLoss": "false",
         "name": "Ferment #1",
         "description": "Ferment",

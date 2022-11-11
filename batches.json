@@ -692,9 +692,19 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
+          "GRAVITY": {
+            "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
           "ORIGINAL_GRAVITY": {
             "amount": "49.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0511874999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "BITTERNESS": {
@@ -765,9 +775,24 @@
         "ingredientAdditions": [],
         "name": "Twentypints Weiss",
         "metrics": {
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
           "ORIGINAL_GRAVITY": {
             "amount": "49.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0511874999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "BITTERNESS": {
@@ -5928,14 +5953,14 @@
         "ingredientAdditions": [],
         "name": "Batch Sparge #1 sparge runnings",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "70.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "70.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },

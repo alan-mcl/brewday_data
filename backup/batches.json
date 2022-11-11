@@ -10,14 +10,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "40.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "40.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -64,14 +64,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "22.83120360450407",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -81,13 +81,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "47.0",
+          "BITTERNESS": {
+            "amount": "22.83120360450407",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -96,14 +101,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "22.83120360450407",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -150,9 +150,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "47.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -160,9 +160,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -240,13 +240,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "18000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "47.0",
+          "BITTERNESS": {
+            "amount": "22.83120360450407",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -255,14 +260,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "22.83120360450407",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "18000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -355,14 +355,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "54.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "27000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -397,14 +397,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "18.330475348244452",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -414,13 +414,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "63.0",
+          "BITTERNESS": {
+            "amount": "18.330475348244452",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.0",
             "unit": "GU",
             "estimate": false
           },
@@ -429,14 +434,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "18.330475348244452",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "63.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -471,9 +471,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "63.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -481,9 +481,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "63.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -537,13 +537,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "63.0",
+          "BITTERNESS": {
+            "amount": "18.330475348244452",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.0",
             "unit": "GU",
             "estimate": false
           },
@@ -552,14 +557,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "18.330475348244452",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "63.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -622,20 +622,20 @@
     "inventoryConsumed": true,
     "name": "Twentypints Weiss v2 (1)",
     "recipe": "Twentypints Weiss v2",
-    "description": "New batch of \u0027Twentypints Weiss v2\u0027",
+    "description": "New batch of \u0027Twentypints Weiss v2\u0027.",
     "measurements": {
       "Lauter #1 first runnings wort": {
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "44.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "26000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "44.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -670,14 +670,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "12.523541722905687",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -687,9 +687,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "49.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -697,9 +697,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "49.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -750,11 +750,11 @@
               "unit": "MILLILITRES",
               "estimate": true
             },
-            "name": "Go-zone Cape Gate",
+            "name": "Go-zone Cape GateGo-zone Cape Gate",
             "temperature": 71.408,
             "time": 0.0,
             "type": "WATER",
-            "water": "Go-zone Cape Gate"
+            "water": "Go-zone Cape GateGo-zone Cape Gate"
           }
         ],
         "name": "Mash Infusion #1 mash vol",
@@ -765,14 +765,14 @@
         "ingredientAdditions": [],
         "name": "Twentypints Weiss",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "49.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "12.523541722905687",
             "unit": "IBU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "49.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -807,9 +807,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "49.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -817,9 +817,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "49.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -870,11 +870,11 @@
               "unit": "MILLILITRES",
               "estimate": true
             },
-            "name": "Go-zone Cape Gate",
+            "name": "Go-zone Cape GateGo-zone Cape Gate",
             "temperature": 71.408,
             "time": 0.0,
             "type": "WATER",
-            "water": "Go-zone Cape Gate"
+            "water": "Go-zone Cape GateGo-zone Cape Gate"
           }
         ],
         "name": "Lauter #1 lautered mash remaining",
@@ -956,14 +956,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "36.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "29000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -986,14 +986,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "27.881828748759244",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -1003,13 +1003,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
+          "BITTERNESS": {
+            "amount": "27.881828748759244",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -1018,14 +1023,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "27.881828748759244",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1048,9 +1048,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -1058,9 +1058,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1126,13 +1126,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
+          "BITTERNESS": {
+            "amount": "27.881828748759244",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -1141,14 +1146,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "27.881828748759244",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1223,14 +1223,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "48.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "25000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1240,14 +1240,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "81.24413700588262",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -1257,6 +1257,16 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
+            "estimate": false
+          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -1266,16 +1276,6 @@
             "amount": "50.0",
             "unit": "GU",
             "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
-            "estimate": false
           }
         },
         "type": "BEER"
@@ -1284,14 +1284,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "50.0",
-            "unit": "GU",
-            "estimate": false
-          },
-          "ABV": {
-            "amount": "0.05389428227225778",
-            "unit": "PERCENTAGE",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -1299,9 +1294,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "ABV": {
+            "amount": "0.05389428227225778",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1311,9 +1311,9 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "50.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -1321,9 +1321,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1498,9 +1498,9 @@
         ],
         "name": "Boil #1 trub",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -1508,9 +1508,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -1520,13 +1520,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "18500.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "50.0",
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -1535,14 +1540,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "18500.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1673,13 +1673,18 @@
         "ingredientAdditions": [],
         "name": "Primary Ferm output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "47.0",
+          "BITTERNESS": {
+            "amount": "28.127463060836178",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -1688,14 +1693,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.127463060836178",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1780,14 +1780,14 @@
         ],
         "name": "Boil output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "28.127463060836178",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -1797,14 +1797,14 @@
         "ingredientAdditions": [],
         "name": "First runnings",
         "metrics": {
-          "GRAVITY": {
-            "amount": "40.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "25000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "40.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1814,13 +1814,18 @@
         "ingredientAdditions": [],
         "name": "Miss Macclesfield",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "47.0",
+          "BITTERNESS": {
+            "amount": "28.127463060836178",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -1829,14 +1834,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.127463060836178",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1871,9 +1871,9 @@
         ],
         "name": "Cool output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "47.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -1881,9 +1881,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1902,14 +1902,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "22.999999999999886",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "22.999999999999886",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1944,14 +1944,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "23.447625993354574",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -1961,13 +1961,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "14.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "24000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "32.0",
+          "BITTERNESS": {
+            "amount": "23.447625993354574",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "14.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -1976,14 +1981,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.447625993354574",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "24000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "32.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2018,9 +2018,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "32.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "24000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -2028,9 +2028,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "24000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "32.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2096,13 +2096,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "14.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21500.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "32.0",
+          "BITTERNESS": {
+            "amount": "23.447625993354574",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "14.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -2111,14 +2116,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.447625993354574",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "21500.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "32.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2193,14 +2193,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "37.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "37.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2210,14 +2210,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "25.058223253975687",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -2227,13 +2227,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
+          "BITTERNESS": {
+            "amount": "25.058223253975687",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.0",
             "unit": "GU",
             "estimate": false
           },
@@ -2242,14 +2247,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "25.058223253975687",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2259,9 +2259,9 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -2269,9 +2269,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2422,9 +2422,9 @@
         ],
         "name": "Boil #1 trub",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
+          "BITTERNESS": {
+            "amount": "25.058223253975687",
+            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -2432,9 +2432,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "25.058223253975687",
-            "unit": "IBU",
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -2444,13 +2444,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19500.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
+          "BITTERNESS": {
+            "amount": "25.058223253975687",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.0",
             "unit": "GU",
             "estimate": false
           },
@@ -2459,14 +2464,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "25.058223253975687",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19500.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2589,14 +2589,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "34.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "29000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "34.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2643,13 +2643,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "20.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
+          "GRAVITY": {
+            "amount": "20.0",
             "unit": "GU",
             "estimate": false
           },
@@ -2658,9 +2658,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2695,14 +2695,14 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2780,13 +2780,13 @@
         "ingredientAdditions": [],
         "name": "Sweaty Betty Stout",
         "metrics": {
-          "GRAVITY": {
-            "amount": "20.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "18000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
+          "GRAVITY": {
+            "amount": "20.0",
             "unit": "GU",
             "estimate": false
           },
@@ -2795,9 +2795,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "18000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2964,13 +2964,18 @@
         "ingredientAdditions": [],
         "name": "Primary Ferm output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "48.0",
+          "BITTERNESS": {
+            "amount": "20.833549409131894",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -2979,14 +2984,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "20.833549409131894",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3101,14 +3101,14 @@
         ],
         "name": "Boil output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "20.833549409131894",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -3118,14 +3118,14 @@
         "ingredientAdditions": [],
         "name": "First runnings",
         "metrics": {
-          "GRAVITY": {
-            "amount": "40.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "30000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "40.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3160,9 +3160,9 @@
         ],
         "name": "Cool output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "48.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "23000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -3170,9 +3170,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "23000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3182,13 +3182,18 @@
         "ingredientAdditions": [],
         "name": "Turtles Heads Brown Ale 2018",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "18000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "48.0",
+          "BITTERNESS": {
+            "amount": "20.833549409131894",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -3197,14 +3202,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "20.833549409131894",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "18000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3223,14 +3223,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "50.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "26000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3253,14 +3253,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "23.833970164974357",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -3270,6 +3270,16 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.833970164974357",
+            "unit": "IBU",
+            "estimate": false
+          },
           "GRAVITY": {
             "amount": "22.0",
             "unit": "GU",
@@ -3279,16 +3289,6 @@
             "amount": "55.0",
             "unit": "GU",
             "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "23.833970164974357",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
-            "estimate": false
           }
         },
         "type": "BEER"
@@ -3297,14 +3297,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "55.0",
-            "unit": "GU",
-            "estimate": false
-          },
-          "ABV": {
-            "amount": "0.05666371694711533",
-            "unit": "PERCENTAGE",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -3312,9 +3307,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "ABV": {
+            "amount": "0.05666371694711533",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "55.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3337,9 +3337,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "55.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -3347,9 +3347,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "55.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3403,13 +3403,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "22.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "55.0",
+          "BITTERNESS": {
+            "amount": "23.833970164974357",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "22.0",
             "unit": "GU",
             "estimate": false
           },
@@ -3418,14 +3423,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.833970164974357",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "55.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3435,14 +3435,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #3 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "55.0",
-            "unit": "GU",
-            "estimate": false
-          },
-          "ABV": {
-            "amount": "0.05666371694711533",
-            "unit": "PERCENTAGE",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -3450,9 +3445,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "ABV": {
+            "amount": "0.05666371694711533",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "55.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3515,14 +3515,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "31.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "30000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "31.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3557,14 +3557,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "28.4240592634571",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -3574,13 +3574,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "4.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "25000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "38.0",
+          "BITTERNESS": {
+            "amount": "28.4240592634571",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "4.0",
             "unit": "GU",
             "estimate": false
           },
@@ -3589,14 +3594,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.4240592634571",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "25000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "38.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3631,9 +3631,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "38.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "25000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -3641,9 +3641,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "25000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "38.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3721,13 +3721,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "4.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "24000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "38.0",
+          "BITTERNESS": {
+            "amount": "28.4240592634571",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "4.0",
             "unit": "GU",
             "estimate": false
           },
@@ -3736,14 +3741,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.4240592634571",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "24000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "38.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3830,14 +3830,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "46.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "46.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3859,13 +3859,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "52.0",
+          "GRAVITY": {
+            "amount": "8.0",
             "unit": "GU",
             "estimate": false
           },
@@ -3874,9 +3874,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "52.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3886,13 +3886,13 @@
         "ingredientAdditions": [],
         "name": "Buxton Road Lager",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "18000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "52.0",
+          "GRAVITY": {
+            "amount": "8.0",
             "unit": "GU",
             "estimate": false
           },
@@ -3901,9 +3901,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "18000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "52.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3913,14 +3913,14 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "52.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "22000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "52.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4064,14 +4064,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "44.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "44.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4130,14 +4130,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "72.67050887609095",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -4147,13 +4147,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
+          "BITTERNESS": {
+            "amount": "72.67050887609095",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -4162,14 +4167,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "72.67050887609095",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4228,9 +4228,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -4238,9 +4238,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4318,13 +4318,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
+          "BITTERNESS": {
+            "amount": "72.67050887609095",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -4333,14 +4338,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "72.67050887609095",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4446,14 +4446,14 @@
         ],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "26000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4475,13 +4475,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "24000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "48.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -4490,9 +4490,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "24000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4502,14 +4502,14 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "48.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "24000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4674,13 +4674,13 @@
         "ingredientAdditions": [],
         "name": "Chips N Gravy Kolsch",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "23000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "48.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -4689,9 +4689,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "23000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4754,6 +4754,16 @@
         "ingredientAdditions": [],
         "name": "Primary Ferm output",
         "metrics": {
+          "VOLUME": {
+            "amount": "21300.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "21.922516022444785",
+            "unit": "IBU",
+            "estimate": false
+          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -4762,16 +4772,6 @@
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "21.922516022444785",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "21300.0",
-            "unit": "MILLILITRES",
             "estimate": false
           }
         },
@@ -4850,14 +4850,14 @@
         ],
         "name": "Boil output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "21.922516022444785",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -4867,14 +4867,14 @@
         "ingredientAdditions": [],
         "name": "First runnings",
         "metrics": {
-          "GRAVITY": {
-            "amount": "37.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "33000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "37.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4884,9 +4884,9 @@
         "ingredientAdditions": [],
         "name": "Secondary Ferm output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "BITTERNESS": {
+            "amount": "21.922516022444785",
+            "unit": "IBU",
             "estimate": false
           },
           "ABV": {
@@ -4894,9 +4894,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "21.922516022444785",
-            "unit": "IBU",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4906,13 +4906,18 @@
         "ingredientAdditions": [],
         "name": "Miss Macclesfield",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21300.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
+          "BITTERNESS": {
+            "amount": "21.922516022444785",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -4921,14 +4926,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "21.922516022444785",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "21300.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4963,9 +4963,9 @@
         ],
         "name": "Cool output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "25000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -4973,9 +4973,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "25000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5007,14 +5007,14 @@
         ],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5061,13 +5061,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "24000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "56.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -5076,9 +5076,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "24000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "56.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5113,14 +5113,14 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "56.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "24000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "56.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5210,13 +5210,13 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "56.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -5225,9 +5225,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "56.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5326,13 +5326,18 @@
         "ingredientAdditions": [],
         "name": "Baggy Ann APA",
         "metrics": {
-          "GRAVITY": {
-            "amount": "14.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
+          "BITTERNESS": {
+            "amount": "98.20238937589983",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "14.0",
             "unit": "GU",
             "estimate": false
           },
@@ -5341,14 +5346,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "98.20238937589983",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5358,14 +5358,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "38.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "38.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5375,14 +5375,14 @@
         "ingredientAdditions": [],
         "name": "Cool #2 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "34.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "34.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5453,14 +5453,14 @@
         ],
         "name": "Combine #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "30.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "27000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "30.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5470,13 +5470,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "14.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "24000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
+          "BITTERNESS": {
+            "amount": "98.20238937589983",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "14.0",
             "unit": "GU",
             "estimate": false
           },
@@ -5485,14 +5490,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "98.20238937589983",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "24000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5502,13 +5502,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "34.0",
+          "GRAVITY": {
+            "amount": "12.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -5517,9 +5517,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "34.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5529,9 +5529,9 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "24000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -5539,9 +5539,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "24000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5612,9 +5612,9 @@
         ],
         "name": "Boil #1 trub",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
+          "BITTERNESS": {
+            "amount": "98.20238937589983",
+            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -5622,9 +5622,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "98.20238937589983",
-            "unit": "IBU",
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -5714,13 +5714,13 @@
         "ingredientAdditions": [],
         "name": "Amber Ale",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "34.0",
+          "GRAVITY": {
+            "amount": "12.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -5729,9 +5729,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "34.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5753,14 +5753,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "98.20238937589983",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -5843,14 +5843,14 @@
         ],
         "name": "Boil #2 trub",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "30.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -5928,14 +5928,14 @@
         "ingredientAdditions": [],
         "name": "Batch Sparge #1 sparge runnings",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "70.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "70.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -6022,14 +6022,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "38.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "38.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6124,14 +6124,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "61.287771766393185",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -6141,13 +6141,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "23000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "64.0",
+          "BITTERNESS": {
+            "amount": "61.287771766393185",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -6156,14 +6161,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "61.287771766393185",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "23000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "64.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6173,13 +6173,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "25000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "64.0",
+          "BITTERNESS": {
+            "amount": "61.287771766393185",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -6188,14 +6193,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "61.287771766393185",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "25000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "64.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6290,9 +6290,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "64.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "25000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -6300,9 +6300,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "25000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "64.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6356,13 +6356,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "64.0",
+          "BITTERNESS": {
+            "amount": "61.287771766393185",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -6371,14 +6376,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "61.287771766393185",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "64.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6441,13 +6441,13 @@
         "ingredientAdditions": [],
         "name": "Baggy Ann APA",
         "metrics": {
-          "GRAVITY": {
-            "amount": "14.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "54.0",
+          "GRAVITY": {
+            "amount": "14.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -6456,9 +6456,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "22000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6481,14 +6481,14 @@
         ],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "46.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "29000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "46.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6510,13 +6510,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "14.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "25000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "54.0",
+          "GRAVITY": {
+            "amount": "14.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -6525,9 +6525,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "25000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6537,14 +6537,14 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "54.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "25000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6724,14 +6724,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "28.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "29000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "28.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6741,14 +6741,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "11.249721903811206",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -6758,13 +6758,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "2.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "45.0",
+          "BITTERNESS": {
+            "amount": "11.249721903811206",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "2.0",
             "unit": "GU",
             "estimate": false
           },
@@ -6773,14 +6778,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "11.249721903811206",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6790,13 +6790,18 @@
         "ingredientAdditions": [],
         "name": "Twentypints Weiss",
         "metrics": {
-          "GRAVITY": {
-            "amount": "2.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "45.0",
+          "BITTERNESS": {
+            "amount": "11.249721903811206",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "2.0",
             "unit": "GU",
             "estimate": false
           },
@@ -6805,14 +6810,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "11.249721903811206",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6822,9 +6822,9 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "45.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -6832,9 +6832,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6925,9 +6925,9 @@
         ],
         "name": "Boil #1 trub",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
+          "BITTERNESS": {
+            "amount": "11.249721903811206",
+            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -6935,9 +6935,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "11.249721903811206",
-            "unit": "IBU",
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -7012,14 +7012,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "35.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "28000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "35.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7029,14 +7029,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "46.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -7046,6 +7046,11 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
+          "VOLUME": {
+            "amount": "20500.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
           "GRAVITY": {
             "amount": "10.0",
             "unit": "GU",
@@ -7054,11 +7059,6 @@
           "ORIGINAL_GRAVITY": {
             "amount": "46.0",
             "unit": "GU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "20500.0",
-            "unit": "MILLILITRES",
             "estimate": false
           }
         },
@@ -7068,13 +7068,13 @@
         "ingredientAdditions": [],
         "name": "Pietaster RyePA",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "18000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "46.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -7083,9 +7083,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "18000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "46.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7289,14 +7289,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "49.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "23000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "49.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7306,13 +7306,18 @@
         "ingredientAdditions": [],
         "name": "Czech Dark Lager",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "54.0",
+          "BITTERNESS": {
+            "amount": "31.528839242898016",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.0",
             "unit": "GU",
             "estimate": false
           },
@@ -7321,14 +7326,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "31.528839242898016",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "20000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7363,14 +7363,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "31.528839242898016",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -7380,13 +7380,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "12.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "54.0",
+          "BITTERNESS": {
+            "amount": "31.528839242898016",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.0",
             "unit": "GU",
             "estimate": false
           },
@@ -7395,14 +7400,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "31.528839242898016",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7437,9 +7437,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "54.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -7447,9 +7447,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7628,13 +7628,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "23000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "36.0",
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -7643,9 +7643,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "23000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7655,14 +7655,14 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "36.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "23000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7753,13 +7753,13 @@
         "ingredientAdditions": [],
         "name": "?? Intl Pale Lager ??",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.999999999999886",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "36.0",
+          "GRAVITY": {
+            "amount": "8.999999999999886",
             "unit": "GU",
             "estimate": false
           },
@@ -7768,9 +7768,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7833,14 +7833,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "50.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "25000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7947,6 +7947,11 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
           "GRAVITY": {
             "amount": "8.0",
             "unit": "GU",
@@ -7956,11 +7961,6 @@
             "amount": "78.0",
             "unit": "GU",
             "estimate": false
-          },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
-            "estimate": false
           }
         },
         "type": "BEER"
@@ -7969,9 +7969,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "78.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "ABV": {
@@ -7979,9 +7979,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "78.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8076,14 +8076,14 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "78.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "19000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "78.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8173,13 +8173,13 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "8.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "18000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "78.0",
+          "GRAVITY": {
+            "amount": "8.0",
             "unit": "GU",
             "estimate": false
           },
@@ -8188,9 +8188,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "18000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "78.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8289,14 +8289,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "38.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "27000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "38.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8306,13 +8306,13 @@
         "ingredientAdditions": [],
         "name": "Saturday Night Amber Ale",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19500.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -8321,9 +8321,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "19500.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8346,14 +8346,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "26.11517190393228",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -8363,13 +8363,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -8378,9 +8378,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8390,13 +8390,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -8405,9 +8405,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8417,14 +8417,14 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "21000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8526,13 +8526,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #3 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -8541,9 +8541,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8642,14 +8642,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "33.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "31000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "33.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8672,14 +8672,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "13.417182534102219",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -8689,9 +8689,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "36.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "25000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -8699,9 +8699,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "25000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8724,9 +8724,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "36.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "25000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -8734,9 +8734,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "25000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8850,14 +8850,14 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "36.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "13.417182534102219",
             "unit": "IBU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8980,14 +8980,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "101.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "23000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "101.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9034,14 +9034,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
-            "estimate": false
-          },
           "BITTERNESS": {
             "amount": "31.87876184041546",
             "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           }
         },
@@ -9051,13 +9051,18 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "14.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "101.0",
+          "BITTERNESS": {
+            "amount": "31.87876184041546",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "14.0",
             "unit": "GU",
             "estimate": false
           },
@@ -9066,14 +9071,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "31.87876184041546",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "101.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9120,9 +9120,9 @@
         ],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "101.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "21000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
           "BITTERNESS": {
@@ -9130,9 +9130,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "21000.0",
-            "unit": "MILLILITRES",
+          "GRAVITY": {
+            "amount": "101.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9234,13 +9234,18 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "14.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "17000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "101.0",
+          "BITTERNESS": {
+            "amount": "31.87876184041546",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "14.0",
             "unit": "GU",
             "estimate": false
           },
@@ -9249,14 +9254,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "31.87876184041546",
-            "unit": "IBU",
-            "estimate": false
-          },
-          "VOLUME": {
-            "amount": "17000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "101.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9367,14 +9367,14 @@
         "ingredientAdditions": [],
         "name": "Lauter #1 first runnings wort",
         "metrics": {
-          "GRAVITY": {
-            "amount": "32.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "25000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "32.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9396,13 +9396,13 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -9411,9 +9411,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "19000.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9423,14 +9423,14 @@
         "ingredientAdditions": [],
         "name": "Cool #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "19000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9533,13 +9533,13 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "GRAVITY": {
-            "amount": "10.0",
-            "unit": "GU",
+          "VOLUME": {
+            "amount": "17500.0",
+            "unit": "MILLILITRES",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
+          "GRAVITY": {
+            "amount": "10.0",
             "unit": "GU",
             "estimate": false
           },
@@ -9548,9 +9548,9 @@
             "unit": "PERCENTAGE",
             "estimate": false
           },
-          "VOLUME": {
-            "amount": "17500.0",
-            "unit": "MILLILITRES",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
