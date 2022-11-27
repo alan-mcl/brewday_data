@@ -64,14 +64,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "22.83120360450407",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "22.83120360450407",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -84,11 +84,6 @@
           "VOLUME": {
             "amount": "19000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "22.83120360450407",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -104,6 +99,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "22.83120360450407",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -155,14 +155,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "22.83120360450407",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "22.83120360450407",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -245,11 +245,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "22.83120360450407",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -263,6 +258,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "22.83120360450407",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -397,14 +397,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "18.330475348244452",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "18.330475348244452",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -417,11 +417,6 @@
           "VOLUME": {
             "amount": "22000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "18.330475348244452",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -437,6 +432,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "63.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "18.330475348244452",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -476,14 +476,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "18.330475348244452",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "63.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "18.330475348244452",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -542,11 +542,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "18.330475348244452",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "12.0",
             "unit": "GU",
@@ -560,6 +555,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "63.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "18.330475348244452",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -670,14 +670,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "12.523541722905687",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "12.523541722905687",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -690,11 +690,6 @@
           "VOLUME": {
             "amount": "21000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "12.523541722905687",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -710,6 +705,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "49.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "12.523541722905687",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -780,11 +780,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "12.523541722905687",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "10.0",
             "unit": "GU",
@@ -798,6 +793,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "49.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "12.523541722905687",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -837,14 +837,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "12.523541722905687",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "49.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "12.523541722905687",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -971,6 +971,331 @@
     }
   },
   {
+    "date": "12-Nov-2022",
+    "inventoryConsumed": true,
+    "name": "Jingle Bells Cream Ale (1)",
+    "recipe": "Jingle Bells Cream Ale",
+    "description": "New batch of \u0027Jingle Bells Cream Ale\u0027",
+    "measurements": {
+      "Lauter #1 first runnings wort": {
+        "ingredientAdditions": [],
+        "name": "Lauter #1 first runnings wort",
+        "metrics": {
+          "VOLUME": {
+            "amount": "23000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Boil #1 output": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "30.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "20.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Cascade",
+            "hop": "Cascade",
+            "time": 0.0,
+            "type": "HOPS"
+          }
+        ],
+        "name": "Boil #1 output",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Ferment #1 output": {
+        "ingredientAdditions": [],
+        "name": "Ferment #1 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Cool #1 output": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "30.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "20.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Cascade",
+            "hop": "Cascade",
+            "time": 0.0,
+            "type": "HOPS"
+          }
+        ],
+        "name": "Cool #1 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Lauter #1 lautered mash remaining": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "2500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pale Malt (Weyermann)",
+            "name": "Pale Malt (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "2500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pilsner (Weyermann)",
+            "name": "Pilsner (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "750.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Barley, Raw, Barkly 6-row",
+            "name": "Barley, Raw, Barkly 6-row",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "33000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 70.56,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Lauter #1 lautered mash remaining",
+        "metrics": {},
+        "type": "MASH"
+      },
+      "My Beer": {
+        "ingredientAdditions": [],
+        "name": "My Beer",
+        "metrics": {
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Mash #1 mash vol": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "2500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pale Malt (Weyermann)",
+            "name": "Pale Malt (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "2500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pilsner (Weyermann)",
+            "name": "Pilsner (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "750.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Barley, Raw, Barkly 6-row",
+            "name": "Barley, Raw, Barkly 6-row",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "33000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 70.56,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Mash #1 mash vol",
+        "metrics": {
+          "VOLUME": {
+            "amount": "35773.16487",
+            "unit": "MILLILITRES",
+            "estimate": false
+          }
+        },
+        "type": "MASH"
+      }
+    }
+  },
+  {
     "date": "08-May-2021",
     "inventoryConsumed": true,
     "name": "Uncle Knobby Dry Stout (1)",
@@ -1011,14 +1336,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "27.881828748759244",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "27.881828748759244",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1031,11 +1356,6 @@
           "VOLUME": {
             "amount": "22000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "27.881828748759244",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -1051,6 +1371,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "27.881828748759244",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1078,14 +1403,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "27.881828748759244",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "27.881828748759244",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1156,11 +1481,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "27.881828748759244",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "12.999999999999886",
             "unit": "GU",
@@ -1174,6 +1494,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "27.881828748759244",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1265,14 +1590,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1287,11 +1612,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -1300,6 +1620,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "50.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1314,11 +1639,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
-            "estimate": false
-          },
           "ABV": {
             "amount": "0.05389428227225778",
             "unit": "PERCENTAGE",
@@ -1327,6 +1647,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "50.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1341,14 +1666,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "50.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1523,9 +1848,9 @@
         ],
         "name": "Boil #1 trub",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           },
           "GRAVITY": {
@@ -1533,9 +1858,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1548,11 +1873,6 @@
           "VOLUME": {
             "amount": "18500.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "81.24413700588262",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -1568,6 +1888,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "50.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "81.24413700588262",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1703,11 +2028,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.127463060836178",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -1721,6 +2041,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "28.127463060836178",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1805,14 +2130,14 @@
         ],
         "name": "Boil output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "28.127463060836178",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "28.127463060836178",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1844,11 +2169,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.127463060836178",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -1862,6 +2182,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "28.127463060836178",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1901,14 +2226,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.127463060836178",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "28.127463060836178",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1969,14 +2294,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "23.447625993354574",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.447625993354574",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -1989,11 +2314,6 @@
           "VOLUME": {
             "amount": "24000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "23.447625993354574",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -2009,6 +2329,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "32.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.447625993354574",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -2048,14 +2373,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.447625993354574",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "32.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.447625993354574",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -2126,11 +2451,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.447625993354574",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "14.999999999999886",
             "unit": "GU",
@@ -2144,6 +2464,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "32.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.447625993354574",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -2235,14 +2560,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "25.058223253975687",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "25.058223253975687",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -2255,11 +2580,6 @@
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "25.058223253975687",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -2276,6 +2596,11 @@
             "amount": "42.0",
             "unit": "GU",
             "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "25.058223253975687",
+            "unit": "IBU",
+            "estimate": false
           }
         },
         "type": "BEER"
@@ -2289,14 +2614,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "25.058223253975687",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "25.058223253975687",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -2447,9 +2772,9 @@
         ],
         "name": "Boil #1 trub",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "25.058223253975687",
-            "unit": "IBU",
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           },
           "GRAVITY": {
@@ -2457,9 +2782,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
+          "BITTERNESS": {
+            "amount": "25.058223253975687",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -2472,11 +2797,6 @@
           "VOLUME": {
             "amount": "19500.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "25.058223253975687",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -2492,6 +2812,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "25.058223253975687",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -2994,11 +3319,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "20.833549409131894",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "12.999999999999886",
             "unit": "GU",
@@ -3012,6 +3332,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "48.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "20.833549409131894",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3126,14 +3451,14 @@
         ],
         "name": "Boil output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "20.833549409131894",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "20.833549409131894",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3190,14 +3515,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "20.833549409131894",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "48.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "20.833549409131894",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3210,11 +3535,6 @@
           "VOLUME": {
             "amount": "18000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "20.833549409131894",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -3230,6 +3550,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "48.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "20.833549409131894",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3278,14 +3603,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "23.833970164974357",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.833970164974357",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3300,11 +3625,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.833970164974357",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "22.0",
             "unit": "GU",
@@ -3313,6 +3633,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "55.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.833970164974357",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3327,11 +3652,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.833970164974357",
-            "unit": "IBU",
-            "estimate": false
-          },
           "ABV": {
             "amount": "0.05666371694711533",
             "unit": "PERCENTAGE",
@@ -3340,6 +3660,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "55.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.833970164974357",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3367,14 +3692,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.833970164974357",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "55.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.833970164974357",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3433,11 +3758,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.833970164974357",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "22.0",
             "unit": "GU",
@@ -3452,6 +3772,11 @@
             "amount": "55.0",
             "unit": "GU",
             "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.833970164974357",
+            "unit": "IBU",
+            "estimate": false
           }
         },
         "type": "BEER"
@@ -3465,11 +3790,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "23.833970164974357",
-            "unit": "IBU",
-            "estimate": false
-          },
           "ABV": {
             "amount": "0.05666371694711533",
             "unit": "PERCENTAGE",
@@ -3478,6 +3798,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "55.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "23.833970164974357",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3582,14 +3907,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "28.4240592634571",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "28.4240592634571",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3602,11 +3927,6 @@
           "VOLUME": {
             "amount": "25000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "28.4240592634571",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -3622,6 +3942,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "38.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "28.4240592634571",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3661,14 +3986,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.4240592634571",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "38.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "28.4240592634571",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -3751,11 +4076,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "28.4240592634571",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "4.0",
             "unit": "GU",
@@ -3769,6 +4089,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "38.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "28.4240592634571",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4155,14 +4480,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "72.67050887609095",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "72.67050887609095",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4175,11 +4500,6 @@
           "VOLUME": {
             "amount": "22000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "72.67050887609095",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -4195,6 +4515,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "72.67050887609095",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4258,14 +4583,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "72.67050887609095",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "72.67050887609095",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4348,11 +4673,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "72.67050887609095",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "10.0",
             "unit": "GU",
@@ -4366,6 +4686,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "72.67050887609095",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4784,11 +5109,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "21.922516022444785",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -4797,6 +5117,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "21.922516022444785",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4875,14 +5200,14 @@
         ],
         "name": "Boil output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "21.922516022444785",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "21.922516022444785",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4909,11 +5234,6 @@
         "ingredientAdditions": [],
         "name": "Secondary Ferm output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "21.922516022444785",
-            "unit": "IBU",
-            "estimate": false
-          },
           "ABV": {
             "amount": "0.044502864936474686",
             "unit": "PERCENTAGE",
@@ -4922,6 +5242,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "21.922516022444785",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4934,11 +5259,6 @@
           "VOLUME": {
             "amount": "21300.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "21.922516022444785",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -4954,6 +5274,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "21.922516022444785",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -4993,14 +5318,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "21.922516022444785",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "21.922516022444785",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -5356,11 +5681,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "98.20238937589983",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "14.0",
             "unit": "GU",
@@ -5374,6 +5694,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "98.20238937589983",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -5500,11 +5825,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "98.20238937589983",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "14.0",
             "unit": "GU",
@@ -5518,6 +5838,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "98.20238937589983",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -5559,14 +5884,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "98.20238937589983",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "98.20238937589983",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -5637,9 +5962,9 @@
         ],
         "name": "Boil #1 trub",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "98.20238937589983",
-            "unit": "IBU",
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           },
           "GRAVITY": {
@@ -5647,9 +5972,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
+          "BITTERNESS": {
+            "amount": "98.20238937589983",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -5778,14 +6103,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "98.20238937589983",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "98.20238937589983",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -5868,14 +6193,14 @@
         ],
         "name": "Boil #2 trub",
         "metrics": {
-          "GRAVITY": {
-            "amount": "30.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "30.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6149,14 +6474,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "61.287771766393185",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "61.287771766393185",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -6171,11 +6496,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "61.287771766393185",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -6189,6 +6509,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "64.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "61.287771766393185",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -6203,11 +6528,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "61.287771766393185",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -6221,6 +6541,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "64.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "61.287771766393185",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -6320,14 +6645,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "61.287771766393185",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "64.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "61.287771766393185",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -6386,11 +6711,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "61.287771766393185",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "8.999999999999886",
             "unit": "GU",
@@ -6404,6 +6724,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "64.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "61.287771766393185",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -6766,14 +7091,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "11.249721903811206",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "11.249721903811206",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -6788,11 +7113,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "11.249721903811206",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "2.0",
             "unit": "GU",
@@ -6806,6 +7126,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "45.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "11.249721903811206",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -6820,11 +7145,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "11.249721903811206",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "2.0",
             "unit": "GU",
@@ -6839,6 +7159,11 @@
             "amount": "45.0",
             "unit": "GU",
             "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "11.249721903811206",
+            "unit": "IBU",
+            "estimate": false
           }
         },
         "type": "BEER"
@@ -6852,14 +7177,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "11.249721903811206",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "45.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "11.249721903811206",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -6950,9 +7275,9 @@
         ],
         "name": "Boil #1 trub",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "11.249721903811206",
-            "unit": "IBU",
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
             "estimate": false
           },
           "GRAVITY": {
@@ -6960,9 +7285,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "TEMPERATURE": {
-            "amount": "100.0",
-            "unit": "CELSIUS",
+          "BITTERNESS": {
+            "amount": "11.249721903811206",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -7054,14 +7379,14 @@
         "ingredientAdditions": [],
         "name": "Boil #1 output",
         "metrics": {
-          "GRAVITY": {
-            "amount": "46.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "46.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7336,11 +7661,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "31.528839242898016",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "12.0",
             "unit": "GU",
@@ -7354,6 +7674,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "54.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "31.528839242898016",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -7388,14 +7713,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "31.528839242898016",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "31.528839242898016",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -7408,11 +7733,6 @@
           "VOLUME": {
             "amount": "21000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "31.528839242898016",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -7428,6 +7748,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "54.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "31.528839242898016",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -7467,14 +7792,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "31.528839242898016",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "54.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "31.528839242898016",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -8371,14 +8696,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "26.11517190393228",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "26.11517190393228",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -8697,14 +9022,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "13.417182534102219",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "13.417182534102219",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -8719,14 +9044,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "13.417182534102219",
-            "unit": "IBU",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "36.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "13.417182534102219",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -8754,14 +9079,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "13.417182534102219",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "36.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "13.417182534102219",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -8875,14 +9200,14 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "13.417182534102219",
-            "unit": "IBU",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "36.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "13.417182534102219",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -9059,14 +9384,14 @@
         ],
         "name": "Boil #1 output",
         "metrics": {
-          "BITTERNESS": {
-            "amount": "31.87876184041546",
-            "unit": "IBU",
-            "estimate": false
-          },
           "TEMPERATURE": {
             "amount": "100.0",
             "unit": "CELSIUS",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "31.87876184041546",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -9079,11 +9404,6 @@
           "VOLUME": {
             "amount": "21000.0",
             "unit": "MILLILITRES",
-            "estimate": false
-          },
-          "BITTERNESS": {
-            "amount": "31.87876184041546",
-            "unit": "IBU",
             "estimate": false
           },
           "GRAVITY": {
@@ -9099,6 +9419,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "101.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "31.87876184041546",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -9150,14 +9475,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "31.87876184041546",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "101.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "31.87876184041546",
+            "unit": "IBU",
             "estimate": false
           }
         },
@@ -9264,11 +9589,6 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "BITTERNESS": {
-            "amount": "31.87876184041546",
-            "unit": "IBU",
-            "estimate": false
-          },
           "GRAVITY": {
             "amount": "14.0",
             "unit": "GU",
@@ -9282,6 +9602,11 @@
           "ORIGINAL_GRAVITY": {
             "amount": "101.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "31.87876184041546",
+            "unit": "IBU",
             "estimate": false
           }
         },

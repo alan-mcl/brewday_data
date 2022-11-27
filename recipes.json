@@ -5647,7 +5647,7 @@
           {
             "unit": "LITRES",
             "quantity": {
-              "amount": "30000.0",
+              "amount": "33000.0",
               "unit": "MILLILITRES",
               "estimate": false
             },
@@ -5702,18 +5702,6 @@
             },
             "fermentable": "Crystal, Medium (Simpsons)",
             "name": "Crystal, Medium (Simpsons)",
-            "time": 3600.0,
-            "type": "FERMENTABLES"
-          },
-          {
-            "unit": "KILOGRAMS",
-            "quantity": {
-              "amount": "250.0",
-              "unit": "GRAMS",
-              "estimate": false
-            },
-            "fermentable": "Brown Sugar, Light",
-            "name": "Brown Sugar, Light",
             "time": 3600.0,
             "type": "FERMENTABLES"
           },
@@ -5786,6 +5774,18 @@
         "name": "Boil #1",
         "description": "Boil",
         "ingredients": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
           {
             "unit": "GRAMS",
             "quantity": {

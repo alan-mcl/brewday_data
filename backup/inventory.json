@@ -23,7 +23,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Pilsner (Weyermann)",
     "quantity": {
-      "amount": "12500.0",
+      "amount": "10000.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -63,7 +63,7 @@
     "unit": "GRAMS",
     "ingredient": "Gypsum (Calcium Sulfate)",
     "quantity": {
-      "amount": "917.858",
+      "amount": "917.358",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -73,7 +73,7 @@
     "unit": "GRAMS",
     "ingredient": "Calcium Chloride",
     "quantity": {
-      "amount": "900.5880000000001",
+      "amount": "895.6880000000001",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -93,7 +93,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Pale Malt (Weyermann)",
     "quantity": {
-      "amount": "25000.0",
+      "amount": "22500.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -113,7 +113,7 @@
     "unit": "GRAMS",
     "ingredient": "Southern Aroma 2022",
     "quantity": {
-      "amount": "405.0",
+      "amount": "375.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -183,7 +183,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Crystal, Medium (Simpsons)",
     "quantity": {
-      "amount": "1000.0",
+      "amount": "950.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -223,7 +223,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Barley, Raw, Barkly 6-row",
     "quantity": {
-      "amount": "1750.0",
+      "amount": "1000.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -233,7 +233,7 @@
     "unit": "GRAMS",
     "ingredient": "Cascade",
     "quantity": {
-      "amount": "100.0",
+      "amount": "80.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -243,7 +243,7 @@
     "unit": "PACKET_11_G",
     "ingredient": "Safale American",
     "quantity": {
-      "amount": "22.0",
+      "amount": "11.0",
       "unit": "GRAMS",
       "estimate": false
     },

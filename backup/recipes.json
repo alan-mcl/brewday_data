@@ -5647,12 +5647,12 @@
           {
             "unit": "LITRES",
             "quantity": {
-              "amount": "30000.0",
+              "amount": "33000.0",
               "unit": "MILLILITRES",
               "estimate": false
             },
             "name": "Go-zone Cape Gate",
-            "temperature": 70.0,
+            "temperature": 70.56,
             "time": 3600.0,
             "type": "WATER",
             "water": "Go-zone Cape Gate"
@@ -5706,16 +5706,52 @@
             "type": "FERMENTABLES"
           },
           {
-            "unit": "KILOGRAMS",
+            "unit": "GRAMS",
             "quantity": {
-              "amount": "250.0",
+              "amount": "4.9",
               "unit": "GRAMS",
               "estimate": false
             },
-            "fermentable": "Brown Sugar, Light",
-            "name": "Brown Sugar, Light",
+            "name": "Calcium Chloride",
             "time": 3600.0,
-            "type": "FERMENTABLES"
+            "type": "MISC",
+            "misc": "Calcium Chloride"
+          },
+          {
+            "unit": "MILLILITRES",
+            "quantity": {
+              "amount": "5.03",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Lactic Acid (80%)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Lactic Acid (80%)"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "0.5",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Gypsum (Calcium Sulfate)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Gypsum (Calcium Sulfate)"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "0.1",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Baking Soda (Sodium Bicarbonate)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Baking Soda (Sodium Bicarbonate)"
           }
         ],
         "outputMashVolume": "Mash #1 mash vol",
@@ -5738,6 +5774,18 @@
         "name": "Boil #1",
         "description": "Boil",
         "ingredients": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
           {
             "unit": "GRAMS",
             "quantity": {

@@ -96,14 +96,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -255,14 +255,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -429,14 +429,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.06693749999999991",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "63.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.06693749999999991",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -552,14 +552,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.06693749999999991",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "63.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.06693749999999991",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -702,14 +702,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0511874999999999",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "49.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0511874999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -790,14 +790,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0511874999999999",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "49.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0511874999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -971,6 +971,306 @@
     }
   },
   {
+    "date": "12-Nov-2022",
+    "inventoryConsumed": true,
+    "name": "Jingle Bells Cream Ale (1)",
+    "recipe": "Jingle Bells Cream Ale",
+    "description": "New batch of \u0027Jingle Bells Cream Ale\u0027",
+    "measurements": {
+      "Lauter #1 first runnings wort": {
+        "ingredientAdditions": [],
+        "name": "Lauter #1 first runnings wort",
+        "metrics": {
+          "VOLUME": {
+            "amount": "23000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Boil #1 output": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "30.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "20.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Cascade",
+            "hop": "Cascade",
+            "time": 0.0,
+            "type": "HOPS"
+          }
+        ],
+        "name": "Boil #1 output",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Ferment #1 output": {
+        "ingredientAdditions": [],
+        "name": "Ferment #1 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Cool #1 output": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "30.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "20.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Cascade",
+            "hop": "Cascade",
+            "time": 0.0,
+            "type": "HOPS"
+          }
+        ],
+        "name": "Cool #1 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Lauter #1 lautered mash remaining": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "2500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pale Malt (Weyermann)",
+            "name": "Pale Malt (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "2500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pilsner (Weyermann)",
+            "name": "Pilsner (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "750.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Barley, Raw, Barkly 6-row",
+            "name": "Barley, Raw, Barkly 6-row",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "33000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 70.56,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Lauter #1 lautered mash remaining",
+        "metrics": {},
+        "type": "MASH"
+      },
+      "My Beer": {
+        "ingredientAdditions": [],
+        "name": "My Beer",
+        "metrics": {
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Mash #1 mash vol": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "2500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pale Malt (Weyermann)",
+            "name": "Pale Malt (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "2500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pilsner (Weyermann)",
+            "name": "Pilsner (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "750.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Barley, Raw, Barkly 6-row",
+            "name": "Barley, Raw, Barkly 6-row",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "33000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 70.56,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Mash #1 mash vol",
+        "metrics": {
+          "VOLUME": {
+            "amount": "35773.16487",
+            "unit": "MILLILITRES",
+            "estimate": false
+          }
+        },
+        "type": "MASH"
+      }
+    }
+  },
+  {
     "date": "08-May-2021",
     "inventoryConsumed": true,
     "name": "Uncle Knobby Dry Stout (1)",
@@ -1043,14 +1343,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03806250000000018",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.03806250000000018",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -1166,14 +1466,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03806250000000018",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.03806250000000018",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -1319,14 +1619,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05389428227225778",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "50.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05389428227225778",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -1560,14 +1860,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05389428227225778",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "50.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05389428227225778",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -1713,14 +2013,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -1854,14 +2154,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "47.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -2001,14 +2301,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.022312500000000166",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "32.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.022312500000000166",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -2136,14 +2436,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.022312500000000166",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "32.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.022312500000000166",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -2267,14 +2567,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -2484,14 +2784,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -2678,14 +2978,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04068749999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04068749999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -2815,14 +3115,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04068749999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04068749999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3004,14 +3304,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.045937500000000187",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "48.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.045937500000000187",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3222,14 +3522,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.045937500000000187",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "48.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.045937500000000187",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3332,14 +3632,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05666371694711533",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "55.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05666371694711533",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3443,14 +3743,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05666371694711533",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "55.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05666371694711533",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3470,14 +3770,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05666371694711533",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "55.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05666371694711533",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3614,14 +3914,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "38.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3761,14 +4061,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "38.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3894,14 +4194,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05775000000000005",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "52.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05775000000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -3921,14 +4221,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05775000000000005",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "52.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05775000000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -4187,14 +4487,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0538124999999999",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -4358,14 +4658,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0538124999999999",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -4510,14 +4810,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "48.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -4709,14 +5009,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "48.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -4914,14 +5214,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.044502864936474686",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.044502864936474686",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -4946,14 +5246,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.044502864936474686",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "42.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.044502864936474686",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -5096,14 +5396,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.06037500000000005",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "56.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.06037500000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -5245,14 +5545,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.06037500000000005",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "56.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.06037500000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -5366,14 +5666,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03806249999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.03806249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -5510,14 +5810,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03806249999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.03806249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -5537,14 +5837,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.02756250000000017",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "34.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.02756250000000017",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -5749,14 +6049,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.02756250000000017",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "34.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.02756250000000017",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6181,14 +6481,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.07218750000000021",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "64.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.07218750000000021",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6213,14 +6513,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.07218750000000021",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "64.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.07218750000000021",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6396,14 +6696,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.07218750000000021",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "64.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.07218750000000021",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6476,14 +6776,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05118750000000019",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "54.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05118750000000019",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6545,14 +6845,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05118750000000019",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "54.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05118750000000019",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6798,14 +7098,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0564374999999999",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "45.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0564374999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6830,14 +7130,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0564374999999999",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "45.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0564374999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -7103,14 +7403,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04725000000000004",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "46.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04725000000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -7346,14 +7646,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05512500000000005",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "54.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05512500000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -7420,14 +7720,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05512500000000005",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "54.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.05512500000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -7663,14 +7963,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03543750000000018",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "36.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.03543750000000018",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -7788,14 +8088,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03543750000000018",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "36.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.03543750000000018",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -7999,14 +8299,14 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.08407726289015717",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "78.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.08407726289015717",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -8208,14 +8508,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.08407726289015717",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "78.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.08407726289015717",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -8341,14 +8641,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -8398,14 +8698,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -8425,14 +8725,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -8561,14 +8861,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -9091,14 +9391,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.11418749999999996",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "101.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.11418749999999996",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -9274,14 +9574,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.11418749999999996",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "101.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.11418749999999996",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -9431,14 +9731,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -9568,14 +9868,14 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
-            "estimate": false
-          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
