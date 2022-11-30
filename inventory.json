@@ -11,16 +11,6 @@
   },
   {
     "unit": "KILOGRAMS",
-    "ingredient": "Malteurop Pale Ale",
-    "quantity": {
-      "amount": "850.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
-    "unit": "KILOGRAMS",
     "ingredient": "Pilsner (Weyermann)",
     "quantity": {
       "amount": "10000.0",
@@ -33,7 +23,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Munich I (Weyermann)",
     "quantity": {
-      "amount": "2000.0",
+      "amount": "1000.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -113,7 +103,7 @@
     "unit": "GRAMS",
     "ingredient": "Southern Aroma 2022",
     "quantity": {
-      "amount": "375.0",
+      "amount": "345.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -150,20 +140,10 @@
     "type": "YEAST"
   },
   {
-    "unit": "GRAMS",
-    "ingredient": "Abbaye Belgian",
-    "quantity": {
-      "amount": "11.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "YEAST"
-  },
-  {
     "unit": "KILOGRAMS",
     "ingredient": "Wheat Malt, Pale (Weyermann)",
     "quantity": {
-      "amount": "21000.0",
+      "amount": "17000.0",
       "unit": "GRAMS",
       "estimate": false
     },

@@ -1052,9 +1052,19 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
+          "GRAVITY": {
+            "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
           "ORIGINAL_GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -1186,9 +1196,24 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
+          "VOLUME": {
+            "amount": "22000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
           "ORIGINAL_GRAVITY": {
             "amount": "51.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -5636,6 +5661,334 @@
         ],
         "name": "Lauter #1 lautered mash remaining",
         "metrics": {},
+        "type": "MASH"
+      }
+    }
+  },
+  {
+    "date": "27-Nov-2022",
+    "inventoryConsumed": true,
+    "name": "Twentypints Weiss v2 (2)",
+    "recipe": "Twentypints Weiss v2",
+    "description": "New batch of \u0027Twentypints Weiss v2\u0027",
+    "measurements": {
+      "Lauter #1 first runnings wort": {
+        "ingredientAdditions": [],
+        "name": "Lauter #1 first runnings wort",
+        "metrics": {
+          "VOLUME": {
+            "amount": "30000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "34.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Boil #1 output": {
+        "ingredientAdditions": [
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "15.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "15.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 900.0,
+            "type": "HOPS"
+          }
+        ],
+        "name": "Boil #1 output",
+        "metrics": {
+          "BITTERNESS": {
+            "amount": "11.931411056091417",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Ferment #1 output": {
+        "ingredientAdditions": [],
+        "name": "Ferment #1 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "23000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "11.931411056091417",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Mash Infusion #1 mash vol": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "4000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Wheat Malt, Pale (Weyermann)",
+            "name": "Wheat Malt, Pale (Weyermann)",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "1000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Malteurop Pale Ale",
+            "name": "Malteurop Pale Ale",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "750.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Vienna Malt (Simpsons)",
+            "name": "Vienna Malt (Simpsons)",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": true
+            },
+            "name": "Go-zone Cape GateGo-zone Cape Gate",
+            "temperature": 71.408,
+            "time": 0.0,
+            "type": "WATER",
+            "water": "Go-zone Cape GateGo-zone Cape Gate"
+          }
+        ],
+        "name": "Mash Infusion #1 mash vol",
+        "metrics": {},
+        "type": "MASH"
+      },
+      "Twentypints Weiss": {
+        "ingredientAdditions": [],
+        "name": "Twentypints Weiss",
+        "metrics": {
+          "BITTERNESS": {
+            "amount": "11.931411056091417",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Cool #1 output": {
+        "ingredientAdditions": [
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "15.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "15.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 900.0,
+            "type": "HOPS"
+          }
+        ],
+        "name": "Cool #1 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "23000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "BITTERNESS": {
+            "amount": "11.931411056091417",
+            "unit": "IBU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Lauter #1 lautered mash remaining": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "4000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Wheat Malt, Pale (Weyermann)",
+            "name": "Wheat Malt, Pale (Weyermann)",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "1000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Malteurop Pale Ale",
+            "name": "Malteurop Pale Ale",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "750.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Vienna Malt (Simpsons)",
+            "name": "Vienna Malt (Simpsons)",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": true
+            },
+            "name": "Go-zone Cape GateGo-zone Cape Gate",
+            "temperature": 71.408,
+            "time": 0.0,
+            "type": "WATER",
+            "water": "Go-zone Cape GateGo-zone Cape Gate"
+          }
+        ],
+        "name": "Lauter #1 lautered mash remaining",
+        "metrics": {},
+        "type": "MASH"
+      },
+      "Mash #1 mash vol": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "4000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Wheat Malt, Pale (Weyermann)",
+            "name": "Wheat Malt, Pale (Weyermann)",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "1000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Malteurop Pale Ale",
+            "name": "Malteurop Pale Ale",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "750.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Vienna Malt (Simpsons)",
+            "name": "Vienna Malt (Simpsons)",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "16000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 46.39,
+            "time": 1200.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Mash #1 mash vol",
+        "metrics": {
+          "VOLUME": {
+            "amount": "18800.6390125",
+            "unit": "MILLILITRES",
+            "estimate": false
+          }
+        },
         "type": "MASH"
       }
     }
