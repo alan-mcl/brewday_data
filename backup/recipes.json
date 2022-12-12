@@ -5894,8 +5894,8 @@
               "unit": "GRAMS",
               "estimate": false
             },
-            "fermentable": "Malteurop Pale Ale",
-            "name": "Malteurop Pale Ale",
+            "fermentable": "Pale Malt (Weyermann)",
+            "name": "Pale Malt (Weyermann)",
             "time": 3600.0,
             "type": "FERMENTABLES"
           },

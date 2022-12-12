@@ -33,7 +33,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Munich I (Weyermann)",
     "quantity": {
-      "amount": "1000.0",
+      "amount": "500.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -73,7 +73,7 @@
     "unit": "GRAMS",
     "ingredient": "Gypsum (Calcium Sulfate)",
     "quantity": {
-      "amount": "917.358",
+      "amount": "907.358",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -83,7 +83,7 @@
     "unit": "GRAMS",
     "ingredient": "Calcium Chloride",
     "quantity": {
-      "amount": "895.6880000000001",
+      "amount": "894.6880000000001",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -113,7 +113,7 @@
     "unit": "GRAMS",
     "ingredient": "Southern Passion 2022",
     "quantity": {
-      "amount": "440.0",
+      "amount": "380.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -123,7 +123,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Pale Malt (Weyermann)",
     "quantity": {
-      "amount": "22500.0",
+      "amount": "15500.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -173,7 +173,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Crystal, Light (Simpsons)",
     "quantity": {
-      "amount": "550.0",
+      "amount": "50.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -193,7 +193,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Wheat Malt, Pale (Weyermann)",
     "quantity": {
-      "amount": "17000.0",
+      "amount": "16000.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -203,21 +203,11 @@
     "unit": "GRAMS",
     "ingredient": "Cascade",
     "quantity": {
-      "amount": "80.0",
+      "amount": "30.0",
       "unit": "GRAMS",
       "estimate": false
     },
     "type": "HOPS"
-  },
-  {
-    "unit": "PACKET_11_G",
-    "ingredient": "Safale American",
-    "quantity": {
-      "amount": "11.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "YEAST"
   },
   {
     "unit": "KILOGRAMS",
