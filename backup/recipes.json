@@ -6070,6 +6070,17 @@
         "outputTrubVolume": "Boil #1 trub"
       },
       {
+        "name": "Split #1",
+        "description": "Split",
+        "splitPercent": 0.5,
+        "ingredients": [],
+        "outputVolume": "Split #1 output #1",
+        "outputVolume2": "Split #1 output #2",
+        "type": "SPLIT",
+        "inputVolume": "Boil #1 output",
+        "splitType": "PERCENTAGE"
+      },
+      {
         "duration": 30.0,
         "name": "Stand #1",
         "description": "Stand",
@@ -6077,7 +6088,7 @@
           {
             "unit": "LITRES",
             "quantity": {
-              "amount": "15000.0",
+              "amount": "7500.0",
               "unit": "MILLILITRES",
               "estimate": false
             },
@@ -6090,7 +6101,30 @@
         ],
         "outputVolume": "Stand #1 output",
         "type": "STAND",
-        "inputVolume": "Boil #1 output"
+        "inputVolume": "Split #1 output #1"
+      },
+      {
+        "duration": 30.0,
+        "name": "Stand #2",
+        "description": "Stand",
+        "ingredients": [
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "7500.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 20.0,
+            "time": 1800.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "outputVolume": "Stand #2 output",
+        "type": "STAND",
+        "inputVolume": "Split #1 output #2"
       },
       {
         "targetTemp": 20.0,
@@ -6100,6 +6134,15 @@
         "outputVolume": "Cool #1 output",
         "type": "COOL",
         "inputVolume": "Stand #1 output"
+      },
+      {
+        "targetTemp": 20.0,
+        "name": "Cool #2",
+        "description": "Cool",
+        "ingredients": [],
+        "outputVolume": "Cool #2 output",
+        "type": "COOL",
+        "inputVolume": "Stand #2 output"
       },
       {
         "duration": 14.0,
@@ -6126,15 +6169,51 @@
         "inputVolume": "Cool #1 output"
       },
       {
+        "duration": 14.0,
+        "temp": 20.0,
+        "removeTrubAndChillerLoss": "false",
+        "name": "Ferment #2",
+        "description": "Ferment",
+        "ingredients": [
+          {
+            "unit": "PACKET_11_G",
+            "quantity": {
+              "amount": "11.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Safale American",
+            "time": 1209600.0,
+            "type": "YEAST",
+            "yeast": "Safale American"
+          }
+        ],
+        "outputVolume": "Ferment #2 output",
+        "type": "FERMENT",
+        "inputVolume": "Cool #2 output"
+      },
+      {
         "forcedCarbonation": 4.9,
         "packagingLoss": 500.0,
         "styleId": "18B/American Pale Ale/BJCP 2015",
         "name": "Package #1",
         "description": "Package",
         "ingredients": [],
-        "outputVolume": "Tattoo \u0026 Moustache APA",
+        "outputVolume": "A Tattoo And A Moustache APA#1",
         "type": "PACKAGE",
         "inputVolume": "Ferment #1 output",
+        "packagingType": "KEG"
+      },
+      {
+        "forcedCarbonation": 4.9,
+        "packagingLoss": 500.0,
+        "styleId": "18B/American Pale Ale/BJCP 2021",
+        "name": "Package #2",
+        "description": "Package",
+        "ingredients": [],
+        "outputVolume": "A Tattoo And A Moustache APA#2",
+        "type": "PACKAGE",
+        "inputVolume": "Ferment #2 output",
         "packagingType": "KEG"
       }
     ],
