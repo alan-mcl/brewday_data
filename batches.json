@@ -5740,6 +5740,16 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
@@ -5813,6 +5823,21 @@
         "ingredientAdditions": [],
         "name": "Twentypints Weiss",
         "metrics": {
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.999999999999886",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
           "ORIGINAL_GRAVITY": {
             "amount": "43.0",
             "unit": "GU",
