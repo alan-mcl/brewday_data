@@ -86,9 +86,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "47.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -101,9 +101,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -245,9 +245,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "47.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -260,9 +260,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -419,9 +419,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "63.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.06693749999999991",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -434,9 +434,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.06693749999999991",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "63.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -542,9 +542,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "63.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.06693749999999991",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -557,9 +557,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.06693749999999991",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "63.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -692,9 +692,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "49.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.0511874999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -707,9 +707,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0511874999999999",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "49.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -780,9 +780,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "49.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.0511874999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -795,9 +795,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0511874999999999",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "49.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1047,9 +1047,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -1062,9 +1062,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0538124999999999",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1196,9 +1196,9 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -1211,9 +1211,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0538124999999999",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1358,9 +1358,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.03806250000000018",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -1373,9 +1373,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03806250000000018",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1481,9 +1481,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.03806250000000018",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -1496,9 +1496,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03806250000000018",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1612,11 +1612,6 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "50.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "22000.0",
             "unit": "MILLILITRES",
@@ -1624,6 +1619,11 @@
           },
           "GRAVITY": {
             "amount": "8.999999999999886",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "50.0",
             "unit": "GU",
             "estimate": false
           }
@@ -1639,9 +1639,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "50.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05389428227225778",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -1649,9 +1649,9 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05389428227225778",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -1875,9 +1875,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "50.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05389428227225778",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -1890,9 +1890,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05389428227225778",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2028,9 +2028,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "47.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -2043,9 +2043,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2169,9 +2169,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "47.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -2184,9 +2184,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "47.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2316,9 +2316,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "32.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.022312500000000166",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -2331,9 +2331,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.022312500000000166",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "32.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2451,9 +2451,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "32.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.022312500000000166",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -2466,9 +2466,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.022312500000000166",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "32.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2582,9 +2582,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -2597,9 +2597,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2799,9 +2799,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -2814,9 +2814,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -2993,9 +2993,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04068749999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -3008,9 +3008,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04068749999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3130,9 +3130,9 @@
         "ingredientAdditions": [],
         "name": "Sweaty Betty Stout",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04068749999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -3145,9 +3145,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04068749999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3227,7 +3227,7 @@
     "date": "11-Dec-2022",
     "inventoryConsumed": true,
     "name": "A Tattoo And A Moustache APA (Double Batch) (1)",
-    "recipe": "A Tattoo And A Moustache APA (Double Batch)",
+    "recipe": "A Tattoo And A Moustache APA (x2)",
     "description": "New batch of \u0027A Tattoo And A Moustache APA (Double Batch)\u0027",
     "measurements": {
       "Lauter #1 first runnings wort": {
@@ -3257,14 +3257,14 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "45.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3286,14 +3286,14 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "45.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3779,9 +3779,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "48.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.045937500000000187",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -3794,9 +3794,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.045937500000000187",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -3997,9 +3997,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "48.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.045937500000000187",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4012,9 +4012,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.045937500000000187",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4085,11 +4085,6 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "55.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "22000.0",
             "unit": "MILLILITRES",
@@ -4097,6 +4092,11 @@
           },
           "GRAVITY": {
             "amount": "22.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "55.0",
             "unit": "GU",
             "estimate": false
           }
@@ -4112,9 +4112,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "55.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05666371694711533",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4122,9 +4122,9 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05666371694711533",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "55.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4218,9 +4218,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "55.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05666371694711533",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4233,9 +4233,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05666371694711533",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "55.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4250,9 +4250,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "55.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05666371694711533",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4260,9 +4260,9 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05666371694711533",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "55.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4389,9 +4389,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "38.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4404,9 +4404,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "38.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4536,9 +4536,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "38.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4551,9 +4551,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "38.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4669,9 +4669,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "52.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05775000000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4684,9 +4684,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05775000000000005",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "52.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4696,9 +4696,9 @@
         "ingredientAdditions": [],
         "name": "Buxton Road Lager",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "52.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05775000000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4711,9 +4711,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05775000000000005",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "52.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -4962,9 +4962,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -4977,9 +4977,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0538124999999999",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5133,9 +5133,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "51.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.0538124999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -5148,9 +5148,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0538124999999999",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "51.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5285,9 +5285,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "48.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -5300,9 +5300,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5484,9 +5484,9 @@
         "ingredientAdditions": [],
         "name": "Chips N Gravy Kolsch",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "48.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -5499,9 +5499,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.049875000000000044",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "48.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5569,11 +5569,6 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "21300.0",
             "unit": "MILLILITRES",
@@ -5581,6 +5576,11 @@
           },
           "GRAVITY": {
             "amount": "8.999999999999886",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
             "unit": "GU",
             "estimate": false
           }
@@ -5699,14 +5699,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "ABV": {
             "amount": "0.044502864936474686",
             "unit": "PERCENTAGE",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5721,9 +5721,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "42.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.044502864936474686",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -5736,9 +5736,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.044502864936474686",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "42.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -5871,9 +5871,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "56.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.06037500000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -5886,9 +5886,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.06037500000000005",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "56.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6020,9 +6020,9 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "56.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.06037500000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -6035,9 +6035,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.06037500000000005",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "56.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6200,9 +6200,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -6215,9 +6215,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6288,9 +6288,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04462500000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -6303,9 +6303,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04462500000000004",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6494,9 +6494,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.03806249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -6509,9 +6509,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03806249999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6638,9 +6638,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.03806249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -6653,9 +6653,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03806249999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6665,9 +6665,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "34.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.02756250000000017",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -6680,9 +6680,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.02756250000000017",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "34.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -6877,9 +6877,9 @@
         "ingredientAdditions": [],
         "name": "Amber Ale",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "34.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.02756250000000017",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -6892,9 +6892,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.02756250000000017",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "34.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7309,9 +7309,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "64.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.07218750000000021",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -7324,9 +7324,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.07218750000000021",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "64.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7341,9 +7341,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "64.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.07218750000000021",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -7356,9 +7356,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.07218750000000021",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "64.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7524,9 +7524,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "64.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.07218750000000021",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -7539,9 +7539,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.07218750000000021",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "64.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7604,9 +7604,9 @@
         "ingredientAdditions": [],
         "name": "Baggy Ann APA",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "54.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05118750000000019",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -7619,9 +7619,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05118750000000019",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7673,9 +7673,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "54.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05118750000000019",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -7688,9 +7688,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05118750000000019",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7926,9 +7926,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "45.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.0564374999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -7941,9 +7941,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0564374999999999",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -7958,9 +7958,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "45.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.0564374999999999",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -7973,9 +7973,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.0564374999999999",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8209,11 +8209,6 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "46.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "20500.0",
             "unit": "MILLILITRES",
@@ -8221,6 +8216,11 @@
           },
           "GRAVITY": {
             "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "46.0",
             "unit": "GU",
             "estimate": false
           }
@@ -8231,9 +8231,9 @@
         "ingredientAdditions": [],
         "name": "Pietaster RyePA",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "46.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04725000000000004",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -8246,9 +8246,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04725000000000004",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "46.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8474,9 +8474,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "54.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05512500000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -8489,9 +8489,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05512500000000005",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8548,9 +8548,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "54.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.05512500000000005",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -8563,9 +8563,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.05512500000000005",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "54.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8791,9 +8791,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "36.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.03543750000000018",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -8806,9 +8806,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03543750000000018",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -8916,9 +8916,9 @@
         "ingredientAdditions": [],
         "name": "?? Intl Pale Lager ??",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "36.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.03543750000000018",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -8931,9 +8931,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.03543750000000018",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9110,11 +9110,6 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "78.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "19000.0",
             "unit": "MILLILITRES",
@@ -9122,6 +9117,11 @@
           },
           "GRAVITY": {
             "amount": "8.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "78.0",
             "unit": "GU",
             "estimate": false
           }
@@ -9132,9 +9132,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "78.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.08407726289015717",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -9142,9 +9142,9 @@
             "unit": "MILLILITRES",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.08407726289015717",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "78.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9336,9 +9336,9 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "78.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.08407726289015717",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -9351,9 +9351,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.08407726289015717",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "78.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9469,9 +9469,9 @@
         "ingredientAdditions": [],
         "name": "Saturday Night Amber Ale",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -9484,9 +9484,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9526,9 +9526,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -9541,9 +9541,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9553,9 +9553,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -9568,9 +9568,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9689,9 +9689,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #3 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -9704,9 +9704,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -9857,14 +9857,14 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "36.0",
-            "unit": "GU",
-            "estimate": false
-          },
           "VOLUME": {
             "amount": "25000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "36.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -10219,9 +10219,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "101.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.11418749999999996",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -10234,9 +10234,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.11418749999999996",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "101.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -10402,9 +10402,9 @@
             "unit": "IBU",
             "estimate": false
           },
-          "ORIGINAL_GRAVITY": {
-            "amount": "101.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.11418749999999996",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -10417,9 +10417,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.11418749999999996",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "101.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -10559,9 +10559,9 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -10574,9 +10574,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },
@@ -10696,9 +10696,9 @@
         "ingredientAdditions": [],
         "name": "My Beer",
         "metrics": {
-          "ORIGINAL_GRAVITY": {
-            "amount": "43.0",
-            "unit": "GU",
+          "ABV": {
+            "amount": "0.04331249999999989",
+            "unit": "PERCENTAGE",
             "estimate": false
           },
           "VOLUME": {
@@ -10711,9 +10711,9 @@
             "unit": "GU",
             "estimate": false
           },
-          "ABV": {
-            "amount": "0.04331249999999989",
-            "unit": "PERCENTAGE",
+          "ORIGINAL_GRAVITY": {
+            "amount": "43.0",
+            "unit": "GU",
             "estimate": false
           }
         },

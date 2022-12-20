@@ -2634,6 +2634,426 @@
   },
   {
     "equipmentProfile": "Bears Head Brewery v4",
+    "name": "Altbier / Cali Common",
+    "steps": [
+      {
+        "duration": 60.0,
+        "grainTemp": 20.0,
+        "name": "Mash #1",
+        "description": "Initial mash infusion",
+        "ingredients": [
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 71.82,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "7000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pilsner (Weyermann)",
+            "name": "Pilsner (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "1000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Wheat Malt, Pale (Weyermann)",
+            "name": "Wheat Malt, Pale (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Munich I (Weyermann)",
+            "name": "Munich I (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Aromatic Malt (Simpsons)",
+            "name": "Aromatic Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Chocolate Malt (Simpsons)",
+            "name": "Chocolate Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Light (Simpsons)",
+            "name": "Crystal, Light (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "MILLILITRES",
+            "quantity": {
+              "amount": "9.9",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Lactic Acid (80%)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Lactic Acid (80%)"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "3.5",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Chalk (Undissolved)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Chalk (Undissolved)"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "2.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Baking Soda (Sodium Bicarbonate)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Baking Soda (Sodium Bicarbonate)"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "0.5",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Gypsum (Calcium Sulfate)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Gypsum (Calcium Sulfate)"
+          }
+        ],
+        "outputMashVolume": "Mash #1 mash vol",
+        "type": "MASH"
+      },
+      {
+        "outputFirstRunnings": "Lauter #1 first runnings wort",
+        "outputLauteredMashVolume": "Lauter #1 lautered mash remaining",
+        "name": "Lauter #1",
+        "description": "Lauter",
+        "ingredients": [],
+        "type": "LAUTER",
+        "inputMashVolume": "Mash #1 mash vol"
+      },
+      {
+        "mashVolume": "Lauter #1 lautered mash remaining",
+        "name": "Batch Sparge #1",
+        "outputSpargeRunnings": "Batch Sparge #1 sparge runnings",
+        "description": "Batch Sparge",
+        "ingredients": [
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "10000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 70.0,
+            "time": 0.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "outputMashVolume": "Batch Sparge #1 lautered mash",
+        "outputCombinedWortVolume": "Batch Sparge #1 combined wort",
+        "type": "BATCH_SPARGE",
+        "wortVolume": "Lauter #1 first runnings wort"
+      },
+      {
+        "duration": 60.0,
+        "outputWortVolume": "Boil #1 output",
+        "inputWortVolume": "Batch Sparge #1 combined wort",
+        "removeTrubAndChillerLoss": "true",
+        "name": "Boil #1",
+        "description": "Boil",
+        "ingredients": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "120.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          }
+        ],
+        "type": "BOIL",
+        "outputTrubVolume": "Boil #1 trub"
+      },
+      {
+        "name": "Split #1",
+        "description": "Split",
+        "splitPercent": 0.5,
+        "ingredients": [],
+        "outputVolume": "Split #1 output #1",
+        "outputVolume2": "Split #1 output #2",
+        "type": "SPLIT",
+        "inputVolume": "Boil #1 output",
+        "splitType": "PERCENTAGE"
+      },
+      {
+        "duration": 30.0,
+        "name": "Stand #1",
+        "description": "Stand",
+        "ingredients": [
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "7500.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 20.0,
+            "time": 0.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "outputVolume": "Stand #1 output",
+        "type": "STAND",
+        "inputVolume": "Split #1 output #1"
+      },
+      {
+        "duration": 30.0,
+        "name": "Stand #2",
+        "description": "Stand",
+        "ingredients": [
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "7500.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 20.0,
+            "time": 0.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 1200.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "20.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "African Queen 2022",
+            "hop": "African Queen 2022",
+            "time": 1200.0,
+            "type": "HOPS"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "20.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Passion 2022",
+            "hop": "Southern Passion 2022",
+            "time": 1200.0,
+            "type": "HOPS"
+          }
+        ],
+        "outputVolume": "Stand #2 output",
+        "type": "STAND",
+        "inputVolume": "Split #1 output #2"
+      },
+      {
+        "targetTemp": 20.0,
+        "name": "Cool #1",
+        "description": "Cool",
+        "ingredients": [],
+        "outputVolume": "Cool #1 output",
+        "type": "COOL",
+        "inputVolume": "Stand #1 output"
+      },
+      {
+        "targetTemp": 20.0,
+        "name": "Cool #2",
+        "description": "Cool",
+        "ingredients": [],
+        "outputVolume": "Cool #2 output",
+        "type": "COOL",
+        "inputVolume": "Stand #2 output"
+      },
+      {
+        "duration": 14.0,
+        "temp": 20.0,
+        "removeTrubAndChillerLoss": "false",
+        "name": "Ferment #1",
+        "description": "Ferment",
+        "ingredients": [
+          {
+            "unit": "PACKET_11_G",
+            "quantity": {
+              "amount": "11.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Kolsch Style Ale",
+            "time": 1209600.0,
+            "type": "YEAST",
+            "yeast": "Kolsch Style Ale"
+          }
+        ],
+        "outputVolume": "Ferment #1 output",
+        "type": "FERMENT",
+        "inputVolume": "Cool #1 output"
+      },
+      {
+        "duration": 14.0,
+        "temp": 20.0,
+        "removeTrubAndChillerLoss": "false",
+        "name": "Ferment #2",
+        "description": "Ferment",
+        "ingredients": [
+          {
+            "unit": "PACKET_11_G",
+            "quantity": {
+              "amount": "11.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Diamond Lager",
+            "time": 1209600.0,
+            "type": "YEAST",
+            "yeast": "Diamond Lager"
+          }
+        ],
+        "outputVolume": "Ferment #2 output",
+        "type": "FERMENT",
+        "inputVolume": "Cool #2 output"
+      },
+      {
+        "forcedCarbonation": 5.096,
+        "packagingLoss": 500.0,
+        "styleId": "7B/Altbier/BJCP 2021",
+        "name": "Package #1",
+        "description": "Package",
+        "ingredients": [],
+        "outputVolume": "Alehouse Rock Altbier",
+        "type": "PACKAGE",
+        "inputVolume": "Ferment #1 output",
+        "packagingType": "KEG"
+      },
+      {
+        "forcedCarbonation": 5.096,
+        "packagingLoss": 500.0,
+        "styleId": "19B/California Common/BJCP 2021",
+        "name": "Package #2",
+        "description": "Package",
+        "ingredients": [],
+        "outputVolume": "Get Weavin\u0027 Cali Common",
+        "type": "PACKAGE",
+        "inputVolume": "Ferment #2 output",
+        "packagingType": "KEG"
+      }
+    ],
+    "desc": "Created from process template \u0027Blank Template\u0027",
+    "tags": [
+      "ale",
+      "lager",
+      "double batch"
+    ]
+  },
+  {
+    "equipmentProfile": "Bears Head Brewery v4",
     "name": "Vigilanty Shanty Sparkling Ale",
     "steps": [
       {
@@ -5866,7 +6286,7 @@
   },
   {
     "equipmentProfile": "Bears Head Brewery v4",
-    "name": "A Tattoo And A Moustache APA (Double Batch)",
+    "name": "A Tattoo And A Moustache APA (x2)",
     "steps": [
       {
         "duration": 60.0,
@@ -6220,7 +6640,8 @@
     "desc": "Created from process template \u0027Blank Template\u0027",
     "tags": [
       "ale",
-      "apa"
+      "apa",
+      "double batch"
     ]
   },
   {
