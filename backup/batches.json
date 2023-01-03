@@ -3257,9 +3257,19 @@
         "ingredientAdditions": [],
         "name": "Ferment #1 output",
         "metrics": {
+          "ABV": {
+            "amount": "0.0485624999999999",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.0",
+            "unit": "GU",
             "estimate": false
           },
           "ORIGINAL_GRAVITY": {
@@ -3274,6 +3284,21 @@
         "ingredientAdditions": [],
         "name": "A Tattoo And A Moustache APA#1",
         "metrics": {
+          "ABV": {
+            "amount": "0.0485624999999999",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.0",
+            "unit": "GU",
+            "estimate": false
+          },
           "ORIGINAL_GRAVITY": {
             "amount": "45.0",
             "unit": "GU",
@@ -3286,9 +3311,19 @@
         "ingredientAdditions": [],
         "name": "Ferment #2 output",
         "metrics": {
+          "ABV": {
+            "amount": "0.0485624999999999",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.0",
+            "unit": "GU",
             "estimate": false
           },
           "ORIGINAL_GRAVITY": {
@@ -3410,6 +3445,21 @@
         "ingredientAdditions": [],
         "name": "A Tattoo And A Moustache APA#2",
         "metrics": {
+          "ABV": {
+            "amount": "0.0485624999999999",
+            "unit": "PERCENTAGE",
+            "estimate": false
+          },
+          "VOLUME": {
+            "amount": "19000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "8.0",
+            "unit": "GU",
+            "estimate": false
+          },
           "ORIGINAL_GRAVITY": {
             "amount": "45.0",
             "unit": "GU",
@@ -6474,6 +6524,562 @@
             "estimate": false
           }
         },
+        "type": "MASH"
+      }
+    }
+  },
+  {
+    "date": "28-Dec-2022",
+    "inventoryConsumed": true,
+    "name": "Altbier / Cali Common (1)",
+    "recipe": "Altbier / Cali Common",
+    "description": "New batch of \u0027Altbier / Cali Common\u0027",
+    "measurements": {
+      "Lauter #1 first runnings wort": {
+        "ingredientAdditions": [],
+        "name": "Lauter #1 first runnings wort",
+        "metrics": {},
+        "type": "WORT"
+      },
+      "Cool #2 output": {
+        "ingredientAdditions": [],
+        "name": "Cool #2 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Ferment #1 output": {
+        "ingredientAdditions": [],
+        "name": "Ferment #1 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Get Weavin\u0027 Cali Common": {
+        "ingredientAdditions": [],
+        "name": "Get Weavin\u0027 Cali Common",
+        "metrics": {
+          "ORIGINAL_GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Ferment #2 output": {
+        "ingredientAdditions": [],
+        "name": "Ferment #2 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "ORIGINAL_GRAVITY": {
+            "amount": "50.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Cool #1 output": {
+        "ingredientAdditions": [],
+        "name": "Cool #1 output",
+        "metrics": {
+          "VOLUME": {
+            "amount": "20000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Boil #1 trub": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "120.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          }
+        ],
+        "name": "Boil #1 trub",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Stand #1 output": {
+        "ingredientAdditions": [],
+        "name": "Stand #1 output",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "54.31609490816591",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Stand #2 output": {
+        "ingredientAdditions": [],
+        "name": "Stand #2 output",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "54.31609490816591",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Batch Sparge #1 combined wort": {
+        "ingredientAdditions": [],
+        "name": "Batch Sparge #1 combined wort",
+        "metrics": {
+          "VOLUME": {
+            "amount": "30000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "61.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Mash #1 mash vol": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "7000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pilsner (Weyermann)",
+            "name": "Pilsner (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "1000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Wheat Malt, Pale (Weyermann)",
+            "name": "Wheat Malt, Pale (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Munich I (Weyermann)",
+            "name": "Munich I (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Aromatic Malt (Simpsons)",
+            "name": "Aromatic Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Chocolate Malt (Simpsons)",
+            "name": "Chocolate Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Light (Simpsons)",
+            "name": "Crystal, Light (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 71.82,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Mash #1 mash vol",
+        "metrics": {
+          "VOLUME": {
+            "amount": "34524.1875945",
+            "unit": "MILLILITRES",
+            "estimate": false
+          }
+        },
+        "type": "MASH"
+      },
+      "Split #1 output #1": {
+        "ingredientAdditions": [],
+        "name": "Split #1 output #1",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Boil #1 output": {
+        "ingredientAdditions": [],
+        "name": "Boil #1 output",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Split #1 output #2": {
+        "ingredientAdditions": [],
+        "name": "Split #1 output #2",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Lauter #1 lautered mash remaining": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "7000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pilsner (Weyermann)",
+            "name": "Pilsner (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "1000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Wheat Malt, Pale (Weyermann)",
+            "name": "Wheat Malt, Pale (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Munich I (Weyermann)",
+            "name": "Munich I (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Aromatic Malt (Simpsons)",
+            "name": "Aromatic Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Chocolate Malt (Simpsons)",
+            "name": "Chocolate Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Light (Simpsons)",
+            "name": "Crystal, Light (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 71.82,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Lauter #1 lautered mash remaining",
+        "metrics": {},
+        "type": "MASH"
+      },
+      "Batch Sparge #1 sparge runnings": {
+        "ingredientAdditions": [],
+        "name": "Batch Sparge #1 sparge runnings",
+        "metrics": {
+          "VOLUME": {
+            "amount": "10000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "70.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Alehouse Rock Altbier": {
+        "ingredientAdditions": [],
+        "name": "Alehouse Rock Altbier",
+        "metrics": {
+          "ORIGINAL_GRAVITY": {
+            "amount": "45.0",
+            "unit": "GU",
+            "estimate": false
+          }
+        },
+        "type": "BEER"
+      },
+      "Batch Sparge #1 lautered mash": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "7000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pilsner (Weyermann)",
+            "name": "Pilsner (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "1000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Wheat Malt, Pale (Weyermann)",
+            "name": "Wheat Malt, Pale (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Munich I (Weyermann)",
+            "name": "Munich I (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Aromatic Malt (Simpsons)",
+            "name": "Aromatic Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Chocolate Malt (Simpsons)",
+            "name": "Chocolate Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Light (Simpsons)",
+            "name": "Crystal, Light (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 71.82,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Batch Sparge #1 lautered mash",
+        "metrics": {},
         "type": "MASH"
       }
     }

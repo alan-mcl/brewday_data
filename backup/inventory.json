@@ -13,7 +13,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Crystal, Medium (Simpsons)",
     "quantity": {
-      "amount": "950.0",
+      "amount": "450.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -23,31 +23,11 @@
     "unit": "KILOGRAMS",
     "ingredient": "Pilsner (Weyermann)",
     "quantity": {
-      "amount": "10000.0",
+      "amount": "3000.0",
       "unit": "GRAMS",
       "estimate": false
     },
     "type": "FERMENTABLES"
-  },
-  {
-    "unit": "KILOGRAMS",
-    "ingredient": "Munich I (Weyermann)",
-    "quantity": {
-      "amount": "500.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
-    "unit": "PACKET_11_G",
-    "ingredient": "Kolsch Style Ale",
-    "quantity": {
-      "amount": "11.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "YEAST"
   },
   {
     "unit": "GRAMS",
@@ -73,7 +53,7 @@
     "unit": "GRAMS",
     "ingredient": "Gypsum (Calcium Sulfate)",
     "quantity": {
-      "amount": "907.358",
+      "amount": "906.858",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -103,7 +83,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Chocolate Malt (Simpsons)",
     "quantity": {
-      "amount": "1000.0",
+      "amount": "900.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -113,7 +93,7 @@
     "unit": "GRAMS",
     "ingredient": "Southern Passion 2022",
     "quantity": {
-      "amount": "380.0",
+      "amount": "360.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -143,7 +123,7 @@
     "unit": "GRAMS",
     "ingredient": "African Queen 2022",
     "quantity": {
-      "amount": "420.0",
+      "amount": "400.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -153,7 +133,7 @@
     "unit": "GRAMS",
     "ingredient": "Southern Aroma 2022",
     "quantity": {
-      "amount": "345.0",
+      "amount": "225.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -163,17 +143,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Aromatic Malt (Simpsons)",
     "quantity": {
-      "amount": "1000.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
-    "unit": "KILOGRAMS",
-    "ingredient": "Crystal, Light (Simpsons)",
-    "quantity": {
-      "amount": "50.0",
+      "amount": "900.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -183,7 +153,7 @@
     "unit": "PACKET_11_G",
     "ingredient": "Diamond Lager",
     "quantity": {
-      "amount": "22.0",
+      "amount": "11.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -193,7 +163,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Wheat Malt, Pale (Weyermann)",
     "quantity": {
-      "amount": "16000.0",
+      "amount": "15000.0",
       "unit": "GRAMS",
       "estimate": false
     },
