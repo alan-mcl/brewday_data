@@ -6334,12 +6334,36 @@
           {
             "unit": "KILOGRAMS",
             "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Dark (Simpsons)",
+            "name": "Crystal, Dark (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
               "amount": "150.0",
               "unit": "GRAMS",
               "estimate": false
             },
             "fermentable": "Aromatic Malt (Simpsons)",
             "name": "Aromatic Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Chocolate Malt (Simpsons)",
+            "name": "Chocolate Malt (Simpsons)",
             "time": 3600.0,
             "type": "FERMENTABLES"
           }
@@ -6356,7 +6380,7 @@
           {
             "unit": "LITRES",
             "quantity": {
-              "amount": "7000.0",
+              "amount": "6000.0",
               "unit": "MILLILITRES",
               "estimate": false
             },
@@ -6381,7 +6405,7 @@
           {
             "unit": "KILOGRAMS",
             "quantity": {
-              "amount": "500.0",
+              "amount": "400.0",
               "unit": "GRAMS",
               "estimate": false
             },
@@ -6483,7 +6507,7 @@
         "type": "SPLIT",
         "inputVolume": "Boil #1 output",
         "splitType": "ABSOLUTE",
-        "splitVolume": 10.0
+        "splitVolume": 11.0
       },
       {
         "inputVolume2": "Split #1 output #1",
@@ -6502,7 +6526,7 @@
           {
             "unit": "LITRES",
             "quantity": {
-              "amount": "5000.0",
+              "amount": "6000.0",
               "unit": "MILLILITRES",
               "estimate": false
             },
@@ -6645,7 +6669,9 @@
     ],
     "desc": "Created from process template \u0027Blank Template\u0027",
     "tags": [
-      "double batch"
+      "double batch",
+      "stout",
+      "ale"
     ]
   },
   {

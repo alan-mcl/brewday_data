@@ -11,16 +11,6 @@
   },
   {
     "unit": "KILOGRAMS",
-    "ingredient": "Crystal, Medium (Simpsons)",
-    "quantity": {
-      "amount": "450.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
-    "unit": "KILOGRAMS",
     "ingredient": "Pilsner (Weyermann)",
     "quantity": {
       "amount": "3000.0",
@@ -28,6 +18,16 @@
       "estimate": false
     },
     "type": "FERMENTABLES"
+  },
+  {
+    "unit": "PACKET_11_G",
+    "ingredient": "SafBrew Abbeye",
+    "quantity": {
+      "amount": "22.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "YEAST"
   },
   {
     "unit": "GRAMS",
@@ -38,16 +38,6 @@
       "estimate": false
     },
     "type": "HOPS"
-  },
-  {
-    "unit": "GRAMS",
-    "ingredient": "Wildbrew Philly Sour",
-    "quantity": {
-      "amount": "11.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "YEAST"
   },
   {
     "unit": "GRAMS",
@@ -70,26 +60,6 @@
     "type": "MISC"
   },
   {
-    "unit": "KILOGRAMS",
-    "ingredient": "Milk Sugar (Lactose)",
-    "quantity": {
-      "amount": "1000.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
-    "unit": "KILOGRAMS",
-    "ingredient": "Chocolate Malt (Simpsons)",
-    "quantity": {
-      "amount": "900.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
     "unit": "GRAMS",
     "ingredient": "Southern Passion 2022",
     "quantity": {
@@ -104,16 +74,6 @@
     "ingredient": "Pale Malt (Weyermann)",
     "quantity": {
       "amount": "14000.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
-    "unit": "KILOGRAMS",
-    "ingredient": "Barley, Raw, Barkly 6-row",
-    "quantity": {
-      "amount": "1000.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -161,6 +121,36 @@
   },
   {
     "unit": "KILOGRAMS",
+    "ingredient": "Crystal, Light (Simpsons)",
+    "quantity": {
+      "amount": "1000.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "KILOGRAMS",
+    "ingredient": "Crystal, Dark (Simpsons)",
+    "quantity": {
+      "amount": "1000.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "KILOGRAMS",
+    "ingredient": "Vienna Malt (Weyermann)",
+    "quantity": {
+      "amount": "1000.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "KILOGRAMS",
     "ingredient": "Wheat Malt, Pale (Weyermann)",
     "quantity": {
       "amount": "15000.0",
@@ -168,6 +158,96 @@
       "estimate": false
     },
     "type": "FERMENTABLES"
+  },
+  {
+    "unit": "KILOGRAMS",
+    "ingredient": "Brown Malt (Simpsons)",
+    "quantity": {
+      "amount": "700.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "KILOGRAMS",
+    "ingredient": "Crystal, Medium (Simpsons)",
+    "quantity": {
+      "amount": "1000.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "PACKET_11_G",
+    "ingredient": "Munuch",
+    "quantity": {
+      "amount": "22.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "YEAST"
+  },
+  {
+    "unit": "GRAMS",
+    "ingredient": "Wildbrew Philly Sour",
+    "quantity": {
+      "amount": "11.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "YEAST"
+  },
+  {
+    "unit": "KILOGRAMS",
+    "ingredient": "Milk Sugar (Lactose)",
+    "quantity": {
+      "amount": "1000.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "KILOGRAMS",
+    "ingredient": "Chocolate Malt (Simpsons)",
+    "quantity": {
+      "amount": "900.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "KILOGRAMS",
+    "ingredient": "Munich Malt (Simpsons)",
+    "quantity": {
+      "amount": "2000.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "KILOGRAMS",
+    "ingredient": "Barley, Raw, Barkly 6-row",
+    "quantity": {
+      "amount": "1000.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "FERMENTABLES"
+  },
+  {
+    "unit": "PACKET_11_G",
+    "ingredient": "SafAle English Ale",
+    "quantity": {
+      "amount": "22.0",
+      "unit": "GRAMS",
+      "estimate": false
+    },
+    "type": "YEAST"
   },
   {
     "unit": "GRAMS",
@@ -180,13 +260,13 @@
     "type": "HOPS"
   },
   {
-    "unit": "KILOGRAMS",
-    "ingredient": "Brown Malt (Simpsons)",
+    "unit": "PACKET_11_G",
+    "ingredient": "Safale American",
     "quantity": {
-      "amount": "700.0",
+      "amount": "44.0",
       "unit": "GRAMS",
       "estimate": false
     },
-    "type": "FERMENTABLES"
+    "type": "YEAST"
   }
 ]
