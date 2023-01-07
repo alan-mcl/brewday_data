@@ -6354,6 +6354,66 @@
             "name": "Aromatic Malt (Simpsons)",
             "time": 3600.0,
             "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Black Malt (Simpsons)",
+            "name": "Black Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "11.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Epsom Salt (Magnesium Sulfate)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Epsom Salt (Magnesium Sulfate)"
+          },
+          {
+            "unit": "MILLILITRES",
+            "quantity": {
+              "amount": "10.69",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Lactic Acid (80%)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Lactic Acid (80%)"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "8.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Calcium Chloride",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Calcium Chloride"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "7.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Baking Soda (Sodium Bicarbonate)",
+            "time": 3600.0,
+            "type": "MISC",
+            "misc": "Baking Soda (Sodium Bicarbonate)"
           }
         ],
         "outputMashVolume": "Mash #1 mash vol",
