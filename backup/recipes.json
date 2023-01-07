@@ -6302,7 +6302,7 @@
               "estimate": false
             },
             "name": "Go-zone Cape Gate",
-            "temperature": 71.82,
+            "temperature": 72.75,
             "time": 3600.0,
             "type": "WATER",
             "water": "Go-zone Cape Gate"
@@ -6608,10 +6608,10 @@
               "unit": "GRAMS",
               "estimate": false
             },
-            "name": "Nottingham",
+            "name": "Safale American",
             "time": 1209600.0,
             "type": "YEAST",
-            "yeast": "Nottingham"
+            "yeast": "Safale American"
           }
         ],
         "outputVolume": "Ferment #2 output",
@@ -6632,10 +6632,10 @@
               "unit": "GRAMS",
               "estimate": false
             },
-            "name": "Nottingham",
+            "name": "SafAle English Ale",
             "time": 1209600.0,
             "type": "YEAST",
-            "yeast": "Nottingham"
+            "yeast": "SafAle English Ale"
           }
         ],
         "outputVolume": "Ferment #1 output",
