@@ -1,16 +1,6 @@
 [
   {
     "unit": "KILOGRAMS",
-    "ingredient": "Roasted Barley",
-    "quantity": {
-      "amount": "650.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
-    "unit": "KILOGRAMS",
     "ingredient": "Pilsner (Weyermann)",
     "quantity": {
       "amount": "3000.0",
@@ -53,7 +43,7 @@
     "unit": "GRAMS",
     "ingredient": "Calcium Chloride",
     "quantity": {
-      "amount": "894.6880000000001",
+      "amount": "886.6880000000001",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -73,7 +63,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Pale Malt (Weyermann)",
     "quantity": {
-      "amount": "14000.0",
+      "amount": "6000.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -93,7 +83,7 @@
     "unit": "GRAMS",
     "ingredient": "Southern Aroma 2022",
     "quantity": {
-      "amount": "225.0",
+      "amount": "125.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -103,7 +93,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Aromatic Malt (Simpsons)",
     "quantity": {
-      "amount": "900.0",
+      "amount": "700.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -133,7 +123,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Crystal, Dark (Simpsons)",
     "quantity": {
-      "amount": "1000.0",
+      "amount": "700.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -173,7 +163,7 @@
     "unit": "KILOGRAMS",
     "ingredient": "Crystal, Medium (Simpsons)",
     "quantity": {
-      "amount": "1000.0",
+      "amount": "500.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -201,19 +191,9 @@
   },
   {
     "unit": "KILOGRAMS",
-    "ingredient": "Milk Sugar (Lactose)",
-    "quantity": {
-      "amount": "1000.0",
-      "unit": "GRAMS",
-      "estimate": false
-    },
-    "type": "FERMENTABLES"
-  },
-  {
-    "unit": "KILOGRAMS",
     "ingredient": "Chocolate Malt (Simpsons)",
     "quantity": {
-      "amount": "900.0",
+      "amount": "400.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -243,7 +223,7 @@
     "unit": "PACKET_11_G",
     "ingredient": "SafAle English Ale",
     "quantity": {
-      "amount": "22.0",
+      "amount": "11.0",
       "unit": "GRAMS",
       "estimate": false
     },
@@ -263,7 +243,7 @@
     "unit": "PACKET_11_G",
     "ingredient": "Safale American",
     "quantity": {
-      "amount": "44.0",
+      "amount": "33.0",
       "unit": "GRAMS",
       "estimate": false
     },

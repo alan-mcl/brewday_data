@@ -2242,6 +2242,529 @@
     }
   },
   {
+    "date": "07-Jan-2023",
+    "inventoryConsumed": true,
+    "name": "Milk Stout / Scottish Export (1)",
+    "recipe": "Milk Stout / Scottish Export",
+    "description": "New batch of \u0027Milk Stout / Scottish Export\u0027",
+    "measurements": {
+      "Lauter #1 first runnings wort": {
+        "ingredientAdditions": [],
+        "name": "Lauter #1 first runnings wort",
+        "metrics": {},
+        "type": "WORT"
+      },
+      "Cool #2 output": {
+        "ingredientAdditions": [],
+        "name": "Cool #2 output",
+        "metrics": {},
+        "type": "WORT"
+      },
+      "Combine #1 output": {
+        "ingredientAdditions": [],
+        "name": "Combine #1 output",
+        "metrics": {},
+        "type": "WORT"
+      },
+      "Ferment #1 output": {
+        "ingredientAdditions": [],
+        "name": "Ferment #1 output",
+        "metrics": {},
+        "type": "BEER"
+      },
+      "Ferment #2 output": {
+        "ingredientAdditions": [],
+        "name": "Ferment #2 output",
+        "metrics": {},
+        "type": "BEER"
+      },
+      "Cool #1 output": {
+        "ingredientAdditions": [],
+        "name": "Cool #1 output",
+        "metrics": {},
+        "type": "WORT"
+      },
+      "Lauter #2 lautered mash remaining": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "650.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Roasted Barley",
+            "name": "Roasted Barley",
+            "time": 86400.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Chocolate Malt (Simpsons)",
+            "name": "Chocolate Malt (Simpsons)",
+            "time": 86400.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "5000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 20.0,
+            "time": 86400.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Lauter #2 lautered mash remaining",
+        "metrics": {},
+        "type": "MASH"
+      },
+      "Boil #1 trub": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "250.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Brown Sugar, Light",
+            "name": "Brown Sugar, Light",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "100.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Southern Aroma 2022",
+            "hop": "Southern Aroma 2022",
+            "time": 3600.0,
+            "type": "HOPS"
+          }
+        ],
+        "name": "Boil #1 trub",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Stand #2 output": {
+        "ingredientAdditions": [],
+        "name": "Stand #2 output",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "60.01032864811965",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Stand #1 output": {
+        "ingredientAdditions": [],
+        "name": "Stand #1 output",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "50.32951101675333",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Sweaty Betty Milk Stout": {
+        "ingredientAdditions": [],
+        "name": "Sweaty Betty Milk Stout",
+        "metrics": {},
+        "type": "BEER"
+      },
+      "Batch Sparge #1 combined wort": {
+        "ingredientAdditions": [],
+        "name": "Batch Sparge #1 combined wort",
+        "metrics": {},
+        "type": "WORT"
+      },
+      "Mash #1 mash vol": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "8000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pale Malt (Weyermann)",
+            "name": "Pale Malt (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "300.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Dark (Simpsons)",
+            "name": "Crystal, Dark (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "200.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Aromatic Malt (Simpsons)",
+            "name": "Aromatic Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Black Malt (Simpsons)",
+            "name": "Black Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 72.75,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Mash #1 mash vol",
+        "metrics": {
+          "VOLUME": {
+            "amount": "34400.584901999995",
+            "unit": "MILLILITRES",
+            "estimate": false
+          }
+        },
+        "type": "MASH"
+      },
+      "Split #1 output #1": {
+        "ingredientAdditions": [],
+        "name": "Split #1 output #1",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Boil #1 output": {
+        "ingredientAdditions": [],
+        "name": "Boil #1 output",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Split #1 output #2": {
+        "ingredientAdditions": [],
+        "name": "Split #1 output #2",
+        "metrics": {
+          "TEMPERATURE": {
+            "amount": "100.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Sheep Shagger Scottish Export": {
+        "ingredientAdditions": [],
+        "name": "Sheep Shagger Scottish Export",
+        "metrics": {},
+        "type": "BEER"
+      },
+      "Mash #2 mash vol": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "650.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Roasted Barley",
+            "name": "Roasted Barley",
+            "time": 86400.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Chocolate Malt (Simpsons)",
+            "name": "Chocolate Malt (Simpsons)",
+            "time": 86400.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "5000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 20.0,
+            "time": 86400.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Mash #2 mash vol",
+        "metrics": {
+          "VOLUME": {
+            "amount": "5422.61975",
+            "unit": "MILLILITRES",
+            "estimate": false
+          }
+        },
+        "type": "MASH"
+      },
+      "Lauter #1 lautered mash remaining": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "8000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pale Malt (Weyermann)",
+            "name": "Pale Malt (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "300.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Dark (Simpsons)",
+            "name": "Crystal, Dark (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "200.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Aromatic Malt (Simpsons)",
+            "name": "Aromatic Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Black Malt (Simpsons)",
+            "name": "Black Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 72.75,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Lauter #1 lautered mash remaining",
+        "metrics": {},
+        "type": "MASH"
+      },
+      "Batch Sparge #1 sparge runnings": {
+        "ingredientAdditions": [],
+        "name": "Batch Sparge #1 sparge runnings",
+        "metrics": {
+          "VOLUME": {
+            "amount": "10000.0",
+            "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "TEMPERATURE": {
+            "amount": "70.0",
+            "unit": "CELSIUS",
+            "estimate": false
+          }
+        },
+        "type": "WORT"
+      },
+      "Batch Sparge #1 lautered mash": {
+        "ingredientAdditions": [
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "8000.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Pale Malt (Weyermann)",
+            "name": "Pale Malt (Weyermann)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "500.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Medium (Simpsons)",
+            "name": "Crystal, Medium (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "300.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Crystal, Dark (Simpsons)",
+            "name": "Crystal, Dark (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "200.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Aromatic Malt (Simpsons)",
+            "name": "Aromatic Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "KILOGRAMS",
+            "quantity": {
+              "amount": "50.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "fermentable": "Black Malt (Simpsons)",
+            "name": "Black Malt (Simpsons)",
+            "time": 3600.0,
+            "type": "FERMENTABLES"
+          },
+          {
+            "unit": "LITRES",
+            "quantity": {
+              "amount": "30000.0",
+              "unit": "MILLILITRES",
+              "estimate": false
+            },
+            "name": "Go-zone Cape Gate",
+            "temperature": 72.75,
+            "time": 3600.0,
+            "type": "WATER",
+            "water": "Go-zone Cape Gate"
+          }
+        ],
+        "name": "Batch Sparge #1 lautered mash",
+        "metrics": {},
+        "type": "MASH"
+      },
+      "Lauter #2 first runnings wort": {
+        "ingredientAdditions": [],
+        "name": "Lauter #2 first runnings wort",
+        "metrics": {},
+        "type": "WORT"
+      }
+    }
+  },
+  {
     "date": "13-Mar-2021",
     "inventoryConsumed": true,
     "name": "St George Pale Mild (1)",
@@ -6571,6 +7094,16 @@
             "amount": "20000.0",
             "unit": "MILLILITRES",
             "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.045937499999999895",
+            "unit": "PERCENTAGE",
+            "estimate": false
           }
         },
         "type": "BEER"
@@ -6582,6 +7115,16 @@
           "ORIGINAL_GRAVITY": {
             "amount": "50.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6599,6 +7142,16 @@
           "VOLUME": {
             "amount": "20000.0",
             "unit": "MILLILITRES",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "12.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.049875000000000044",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
@@ -6973,6 +7526,16 @@
           "ORIGINAL_GRAVITY": {
             "amount": "45.0",
             "unit": "GU",
+            "estimate": false
+          },
+          "GRAVITY": {
+            "amount": "10.0",
+            "unit": "GU",
+            "estimate": false
+          },
+          "ABV": {
+            "amount": "0.045937499999999895",
+            "unit": "PERCENTAGE",
             "estimate": false
           }
         },
